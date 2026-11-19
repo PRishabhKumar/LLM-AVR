@@ -1,0 +1,1270 @@
+TY  - CHAP
+T1  - Chapter 25 - Assistant agent for smart classroom application: Past, present and future direction
+AU  - Nguyen, Anh Tuan
+AU  - Huynh, Thi Ngoc Yen
+AU  - Ahn, Yonghan
+A2  - Nguyen, Tuan Anh
+BT  - Digital Twins in the Smart Classroom
+PB  - Elsevier
+SP  - 325
+EP  - 345
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-41632-3
+DO  - https://doi.org/10.1016/B978-0-443-41632-3.00015-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443416323000151
+KW  - AI
+KW  - Assistant agents
+KW  - Digital twin
+KW  - ML
+KW  - Smart classroom
+AB  - This book chapter presents a systematic review of 151 studies on assistant agents in smart classrooms, highlighting the evolution from early AI implementations to advanced applications across pedagogical support, administrative automation, collaborative learning, and accessibility and inclusion. It identifies significant technological advancements, challenges, and key issues such as ethics, bias mitigation, and real-world integration. Emphasizing the growing role of artificial intelligence (AI) and large language models (LLMs), the review underscores the necessity for ensuring their effectiveness, reliability, and ethical use. This chapter also provides a foundational resource for future research aimed at innovative AI-driven smart classrooms, integrated with digital twin technologies, to enhance educational equity and effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence in materials science and engineering: Current landscape, key challenges, and future trajectories
+AU  - Peivaste, Iman
+AU  - Belouettar, Salim
+AU  - Mercuri, Francesco
+AU  - Fantuzzi, Nicholas
+AU  - Dehghani, Hamidreza
+AU  - Izadi, Razie
+AU  - Ibrahim, Halliru
+AU  - Lengiewicz, Jakub
+AU  - Belouettar-Mathis, Maël
+AU  - Bendine, Kouider
+AU  - Makradi, Ahmed
+AU  - Horsch, Martin
+AU  - Klein, Peter
+AU  - Hachemi, Mohamed El
+AU  - Preisig, Heinz A.
+AU  - Rezgui, Yacine
+AU  - Konchakova, Natalia
+AU  - Daouadji, Ali
+JO  - Composite Structures
+VL  - 372
+SP  - 119419
+PY  - 2025
+DA  - 2025/11/15/
+SN  - 0263-8223
+DO  - https://doi.org/10.1016/j.compstruct.2025.119419
+UR  - https://www.sciencedirect.com/science/article/pii/S0263822325005847
+KW  - Machine learning
+KW  - Materials modeling
+KW  - Materials design
+KW  - Predictive modeling
+KW  - Deep learning
+KW  - Supervised learning
+KW  - Unsupervised learning
+KW  - Neural networks
+KW  - Graph neural networks (GNNs)
+KW  - Convolutional neural networks (CNNs)
+KW  - Featurization
+KW  - Property prediction
+KW  - Materials discovery
+KW  - Process optimization
+KW  - Autonomous experimentation
+KW  - Sustainability
+KW  - Lifecycle assessment
+KW  - Digital product passport
+KW  - Data integration
+KW  - Standardization
+AB  - Artificial Intelligence is rapidly transforming materials science and engineering, offering powerful tools to navigate complexity, accelerate discovery, and optimize material design in ways previously unattainable. Driven by the accelerating pace of algorithmic advancements and increasing data availability, AI is becoming an essential competency for materials researchers. This review provides a comprehensive and structured overview of the current landscape, synthesizing recent advancements and methodologies for materials scientists seeking to effectively leverage these data-driven techniques. We survey the spectrum of machine learning approaches, from traditional algorithms to advanced deep learning architectures, including CNNs, GNNs, and Transformers, alongside emerging generative AI and probabilistic models such as Gaussian Processes for uncertainty quantification. The review also examines the pivotal role of data in this field, emphasizing how effective representation and featurization strategies, spanning compositional, structural, image-based, and language-inspired approaches, combined with appropriate preprocessing, fundamentally underpin the performance of machine learning models in materials research. Persistent challenges related to data quality, quantity, and standardization, which critically impact model development and application in materials science and engineering, are also addressed. Key applications are discussed across the materials lifecycle, including property prediction at multiple scales, high-throughput virtual screening, inverse design, process optimization, data extraction by large language models, and sustainability assessment. Critical challenges such as model interpretability, generalizability, and scalability are addressed, alongside promising future directions involving hybrid physics-ML models, autonomous experimentation, collaborative platforms, and human-AI synergy.
+ER  - 
+
+TY  - JOUR
+T1  - Symbolic and Statistical Learning Approaches to Speech Summarization: A Scoping Review
+AU  - Rezazadegan, Dana
+AU  - Berkovsky, Shlomo
+AU  - Quiroz, Juan C.
+AU  - Kocaballi, A. Baki
+AU  - Wang, Ying
+AU  - Laranjo, Liliana
+AU  - Coiera, Enrico
+JO  - Computer Speech & Language
+VL  - 72
+SP  - 101305
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0885-2308
+DO  - https://doi.org/10.1016/j.csl.2021.101305
+UR  - https://www.sciencedirect.com/science/article/pii/S0885230821001042
+KW  - Speech summarization
+KW  - Spontaneous speech
+KW  - Automatic speech recognition
+KW  - Extractive summarization
+KW  - Abstractive summarization
+AB  - ABSTRACT
+Speech summarization techniques take human speech as input and then output an abridged version as text or speech. Speech summarization has applications in many domains from information technology to health care, for example improving speech archives or reducing clinical documentation burden. This scoping review maps close to 2 decades of speech summarization literature, spanning from the early machine learning works up to ensemble models, with no restrictions on the language summarized, research method, or paper type. We reviewed a total of 110 papers out of a set of 188 found through a literature search and extracted speech features used, methods, scope, and training corpora. Most studies employ one of four speech summarization architectures: (1) Sentence extraction and compaction; (2) Feature extraction and classification or rank-based sentence selection; (3) Sentence compression and compression summarization; and (4) Language modelling. We also discuss the strengths and weaknesses of these different methods and speech features. Overall, supervised methods (e.g. Hidden Markov support vector machines, Ranking support vector machines, Conditional random fields) performed better than unsupervised methods. As supervised methods require manually annotated training data which can be costly, there was more interest in unsupervised methods. Recent research into unsupervised methods focusses on extending language modelling, for example by combining Uni-gram modelling with deep neural networks. This review does not include recent work in deep learning.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating relationships with GenAI chatbots: User attitudes, acceptability, and potential
+AU  - Vowels, Laura M.
+AU  - Francois-Walcott, Rachel R.R.
+AU  - Grandjean, Maëlle
+AU  - Darwiche, Joëlle
+AU  - Vowels, Matthew J.
+JO  - Computers in Human Behavior: Artificial Humans
+VL  - 5
+SP  - 100183
+PY  - 2025
+DA  - 2025/08/01/
+SN  - 2949-8821
+DO  - https://doi.org/10.1016/j.chbah.2025.100183
+UR  - https://www.sciencedirect.com/science/article/pii/S2949882125000672
+KW  - Close relationships
+KW  - Relationship interventions
+KW  - Digital interventions
+KW  - Chatbots
+KW  - Large language models
+KW  - Artificial intelligence
+AB  - Despite the growing adoption of GenAI chatbots in health and well-being contexts, little is known about public attitudes toward their use for relationship support or the factors shaping acceptance and effectiveness. This study aims to address the research gap across three studies. Study 1 involved five focus groups with 30 young people to gauge general attitudes toward GenAI chatbots in relationship contexts. Study 2 evaluated user experiences during a single relationship intervention session with 20 participants. Study 3 quantitatively measured changes in attitudes toward GenAI chatbots and online interventions among 260 participants, assessed before, immediately after, and two weeks following their interaction with a GenAI chatbot or a writing task. Three main themes emerged in Studies 1 and 2: Accessible First-Line Treatment, Artificial Advice for Human Connection, and Internet Archive. Additionally, Study 1 revealed themes of Privacy vs. Openness and Are We in a Black Mirror Episode?, while Study 2 uncovered themes of Exceeding Expectations and Supporting Neurodivergence. The Study 3 results indicated that GenAI chatbot interactions led to reduced effort expectancy and short-term effects in increased acceptance and decreased objections to GenAI chatbots, though these effects were not sustained at a two-week follow-up. Both intervention types improved general attitudes toward online interventions, suggesting that exposure can enhance the uptake of digital health tools. This research underscores the evolving role of GenAI chatbots in augmenting therapeutic practices, highlighting their potential for personalized, accessible, and effective relationship interventions in the digital age.
+ER  - 
+
+TY  - JOUR
+T1  - Multimodal fusion and vision–language models: A survey for robot vision
+AU  - Han, Xiaofeng
+AU  - Chen, Shunpeng
+AU  - Fu, Zenghuang
+AU  - Feng, Zhe
+AU  - Fan, Lue
+AU  - An, Dong
+AU  - Wang, Changwei
+AU  - Guo, Li
+AU  - Meng, Weiliang
+AU  - Zhang, Xiaopeng
+AU  - Xu, Rongtao
+AU  - Xu, Shibiao
+JO  - Information Fusion
+VL  - 126
+SP  - 103652
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2025.103652
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253525007249
+KW  - Multimodal fusion
+KW  - Robot vision
+KW  - Vision–language models
+KW  - Deep learning
+KW  - Survey
+AB  - Robot vision has significantly benefited from advances in multimodal fusion techniques and vision–language models (VLMs). Starting from robot vision tasks, we have constructed a task-centric analytical framework and reviewed the application and development of multimodal fusion methods and VLMs in the field of robot vision. For semantic scene understanding tasks, we have categorized fusion methods into three types: encoder–decoder frameworks, attention-based architectures, and graph neural networks. Additionally, we analyze the architectural characteristics and practical implementations of these fusion strategies in key tasks such as simultaneous localization and mapping (SLAM), 3D object detection, navigation, and robotic manipulation. We further explore the evolutionary path of VLMs, from early designs centered on modal alignment to unified and context-aware architectures, increasingly enhancing their efficient adaptability in instruction understanding and robotic tasks. In addition, we analyze widely-used datasets to assess their applicability and limitations in real-world robotic environments. Based on these insights, we summarize key challenges in current research, including cross-modal alignment, efficient fusion, real-time deployment, and domain adaptation. We also propose several future directions, such as leveraging self-supervised learning for robust multimodal representation, employing structured spatial memory to enhance spatial intelligence, and incorporating adversarial robustness and human feedback to enable ethically aligned deployment. Through task-driven analysis and comparative discussion, this work aims to provide meaningful guidance for advancing multimodal perception and interaction in robot vision. A comprehensive list of studies in this survey is available at https://github.com/Xiaofeng-Han-Res/MF-RV.
+ER  - 
+
+TY  - JOUR
+T1  - Deep reinforcement learning empowers autonomous decision-making in intelligent air combat: challenges, breakthroughs, and prospects
+AU  - Zhang, Si-Ping
+AU  - Gu, Yi-Hao
+AU  - Zhang, Hui-Yu
+AU  - Meng, Chen-Xuan
+AU  - Deng, Xu
+AU  - Yao, Nan
+AU  - Liang, Xiao-Long
+AU  - Huang, Zi-Guang
+JO  - Aerospace Science and Technology
+VL  - 177
+SP  - 112879
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 1270-9638
+DO  - https://doi.org/10.1016/j.ast.2026.112879
+UR  - https://www.sciencedirect.com/science/article/pii/S1270963826012575
+KW  - Intelligent air combat
+KW  - Unmanned combat aerial vehicle
+KW  - Deep reinforcement learning
+KW  - Autonomous decision-making
+AB  - With the accelerated evolution of modern air combat toward high dynamics and intense antagonism, the demand for autonomous decision-making capabilities in unmanned combat aerial vehicles has become increasingly urgent. Traditional methods based on empirical rules or simplified models can hardly meet the practical requirements of future intelligent air combat. Deep reinforcement learning (DRL), which integrates deep representation learning with sequential decision-making optimization, provides a highly promising technical paradigm for autonomous decision-making in complex environments. Focusing on the application of DRL in intelligent air combat, this paper systematically sorts out four core technical challenges under high-fidelity modeling scenarios: the modeling dilemmas of high-dimensional continuous state spaces and hybrid action spaces, the learning efficiency bottleneck caused by sparse rewards, the insufficient generalization and robustness of strategies, and the predicament of large-scale multi-agent cooperative decision-making. On this basis, this paper comprehensively summarizes the representative technological advances for addressing these challenges, including hierarchical reinforcement learning and time-scale separation methods, reward shaping and prior knowledge injection techniques, robust and generalized learning mechanisms, and multi-agent reinforcement learning frameworks for cooperative combat. Through systematic comparative analysis, the applicability and limitations of various technical routes in practical air combat scenarios are clarified. Finally, from the dimensions of explainability improvement, engineering deployment, and heterogeneous swarm collaboration, future development directions are prospected, providing a clear technical roadmap for relevant research in this field.
+ER  - 
+
+TY  - JOUR
+T1  - Task-specific models vs. large vision-language models in medical visual question answering: A survey
+AU  - Xu, Huahu
+AU  - Chen, Qishen
+AU  - He, Wenxuan
+AU  - Chen, Xingyuan
+AU  - Gao, Honghao
+JO  - Expert Systems with Applications
+VL  - 318
+SP  - 132008
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2026.132008
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417426009218
+KW  - Visual question answering
+KW  - Medical image
+KW  - Task-specific model
+KW  - Vision-language model
+AB  - Medical Visual Question Answering (Med-VQA) is an emerging interdisciplinary task that integrates computer vision and natural language processing to enable automated clinical decision support based on medical images. Recent advances in deep learning have led to two prominent model paradigms: task-specific models (TSMs), which are tailored to specific datasets and clinical tasks, and large vision-language models (VLMs), which leverage large-scale pretraining to achieve strong generalization across modalities. However, a comprehensive and comparative understanding of these two approaches remains lacking. This survey presents the first systematic comparison between TSMs and VLMs in the Med-VQA domain. An unified taxonomy is introduced covering architectural strategies, knowledge integration techniques, pretraining methods, and interpretability mechanisms. Over 50 representative models are reviewed and benchmark their performance across multiple datasets. Furthermore, this paper analyses the trade-offs between accuracy, generalizability, interpretability, and computational efficiency, and examine common challenges such as hallucination, modality bias, and data scarcity. Finally, the paper outlines emerging trends and future directions, including hybrid TSM-VLM systems, instruction tuning, and trustworthy VQA frameworks, to guide the development of clinically viable Med-VQA solutions.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of multimodal large language models for medical decision support: Architectures, fusion methods, and real-world applications
+AU  - Ebrahimi Warkiani, Mahshid
+AU  - Safari, Bita
+AU  - Moattar, Mohammad Hossein
+AU  - Hosseinzadeh, Mehdi
+JO  - Applied Soft Computing
+VL  - 196
+SP  - 115051
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2026.115051
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494626004990
+KW  - Large Language Models
+KW  - Medical Diagnosis and Prognosis
+KW  - Multimodal Data Analysis
+KW  - Transformers
+AB  - Artificial intelligence and its applications have already been transformed by large language models (LLMs). This rapidly emerging field also holds immense potential to revolutionize the medical industry. This review discusses the technological frameworks, applications, challenges, and possible future directions of multimodal LLMs in healthcare diagnosis and prognosis. We emphasize how these algorithms analyze text, pictures, genetic data, and sensor inputs to enhance diagnostics, predictive analytics, and customized medicine. Transformer-based architectures, when combined with fusion methods such as joint embeddings and cross-modal attention, enable sophisticated reasoning across modalities. This feature improves the accuracy of real-time patient monitoring, cancer detection, and rare disease diagnosis. The Scopus and Google Scholar databases were used to choose the studies for this evaluation because of their extensive coverage, excellent indexed research quality, citation analysis capabilities, and sophisticated search features. Data heterogeneity, interpretability, computational cost, and ethical issues continue to be the key obstacles. The advantages of multimodal LLMs over traditional methods are illustrated through case studies. Future advancements will depend on the integration of innovative modalities such as wearable technology, IoT-based systems, and collaborative AI frameworks, along with efforts to address scalability and regulatory challenges. In order to fully realize the promise of multimodal LLMs in revolutionizing medical research and therapy, this analysis emphasizes the necessity of strong data standards, multidisciplinary collaboration, and ethical frameworks.
+ER  - 
+
+TY  - JOUR
+T1  - Mask-guided rationales meet LLMs: Hybrid encoder–LLM question answering framework for grounded, faithfulness-regularized explainable hate speech detection
+AU  - Mitra, Abhijit
+AU  - Mondal, Souvik
+AU  - Bhattacharya, Anubhav
+AU  - Paul, Jayanta
+AU  - Sil, Jaya
+JO  - Applied Soft Computing
+VL  - 200
+SP  - 115373
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2026.115373
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494626008215
+KW  - Hate speech detection
+KW  - Explainable NLP
+KW  - Rationale extraction
+KW  - Mask-guided rationale extraction (MGRE)
+KW  - QA-style span extraction
+KW  - Multi-label text classification
+KW  - Faithfulness evaluation
+KW  - Sufficiency
+KW  - Comprehensiveness
+KW  - Social media moderation
+KW  - Natural language processing
+KW  - Interpretability (XAI)
+KW  - HateXplain
+KW  - CAVES
+KW  - Ex-HateQA
+AB  - Effective hate speech moderation must address explainability and bias alongside raw classification accuracy. We argue that model decisions should be accompanied by human-readable rationales—short spans of the input text that justify the assigned label—ensuring that predictions are auditable and robust. In this paper, we present Ex-HateQA, an Explainable Hate Speech Detection framework featuring Question Answering-style rationale span generation. Ex-HateQA is a parameter-efficient hybrid encoder–LLM architecture that predicts (label, rationale) tuples by formulating explanation generation as an extractive question answering (QA) task. Ex-HateQA follows the principle of parameter-efficient adaptation strategy rather than the absolute size of the underlying 7B LLM backbone. The LLM remains frozen and is updated exclusively through low-rank adapters (LoRA/QLoRA), yielding a minimal trainable parameter budget (approximately <1% of the backbone) while preserving high generation quality for extractive, copy-only rationales. The encoder pathway performs Mask-Guided Rationale Extraction (MGRE) and multi-label prediction, while the LLM pathway generates rationale spans under a strict copy-only constraint, ensuring that the output is either a verbatim substring of the post or <unknown>. It is worth mentioning that here rather than claiming an absolute theorem of causal faithfulness, Ex-HateQA is designed to encourage decision–evidence consistency: sufficiency and comprehensiveness losses regularize the encoder toward counterfactually informative rationales, and an optional alignment objective encourages agreement between MGRE token salience and the LLM’s extractive spans. We further introduce LLM-aware probes—masked prompting for counterfactual sensitivity analysis and optional rationale-tagged prompting—and optimize the model using contrastive (negative) questions to mitigate reliance on spurious triggers. Across two rigorous benchmarks, HateXplain (single-label) and CAVES (multi-label), Ex-HateQA advances the state of the art while preserving a low-latency label-screening path and a selectively invoked rationale-generation path. On HateXplain, Ex-HateQA achieves an F1 score of 0.7445 (a 7.2% improvement over the best encoder baseline) and leads span generation with a ROUGE-2 score of 0.4235 and a BLEU score of 0.5169. Furthermore, it attains the highest subgroup robustness on GMB-Sub. and GMB-BNSP, indicating a significant reduction in bias toward target communities. On CAVES, the framework reaches an F1 score of ≈0.55 (an approximate 16.8% improvement over the strongest encoder baseline) and establishes new state-of-the-art results for ROUGE-1/2/L (e.g., ROUGE-L =0.4243), while matching the highest BLEU scores. Explainability analyses corroborate these empirical gains: plausibility substantially improves (e.g., Token F1 ≈50.3, AUPRC ≈70.3), while external evaluation under an independent classifier and human judgment shows more modest but directionally consistent gains in decision–evidence consistency. We therefore interpret these results as conservative evidence of improved rationale quality rather than as a standalone proof of strong causal faithfulness. Ablation studies validate the efficacy of MGRE pre-finetuning, contrastive QA prompting, and copy-only constraints, while demonstrating robust performance in low-resource and non-English settings. Operationally, we interpret the measured label+evidence latency as an on-demand explanation budget within a cascaded human-in-the-loop moderation pipeline, rather than as the cost of synchronous explanation generation for every incoming post at ingestion scale. We therefore position Ex-HateQA as a framework with deterministic extractive grounding, empirically supported faithfulness-oriented behavior, and a deployment scope centered on cascaded moderation workflows rather than universal firehose-scale full-explanation serving. Warning: This paper contains samples that may be upsetting.
+ER  - 
+
+TY  - CHAP
+T1  - 26 - The use of scripts by children with autism spectrum disorder: a puzzle and an opportunity
+AU  - Gerber, Sima
+A2  - Papaneophytou, Neophytos L.
+A2  - Das, Undurti N.
+BT  - Emerging Programs for Autism Spectrum Disorder
+PB  - Academic Press
+SP  - 467
+EP  - 483
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-323-85031-5
+DO  - https://doi.org/10.1016/B978-0-323-85031-5.00025-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323850315000256
+KW  - Scripting
+KW  - developmental language model
+KW  - conversational analysis
+KW  - intervention principles
+KW  - communication partners
+KW  - unconventional forms
+KW  - conventional forms
+AB  - Many children on the autism spectrum use forms of language, such as echolalia and scripting, that are more imitative than self-generated. Nonetheless, these unconventional forms of language can have semantic meaning and/or pragmatic intent and thus are best viewed as attempts to communicate and relate. Two paradigms will be used to discuss scripting and its role in language and communication development and use. A developmental language model and a linguistic-conversational analysis will serve as the perspectives from which scripting will be addressed. When scripting is embedded in these paradigms, intervention takes a well-defined direction. The dynamic role of scripts in the language acquisition process and in communication interactions will be considered from three reference points: why children use scripts, how the child’s communicative partners can respond to scripts, and how parents and clinicians can facilitate the child’s use of more conventional forms of language.
+ER  - 
+
+TY  - JOUR
+T1  - Semantics-weighted lexical surprisal modeling of naturalistic functional MRI time-series during spoken narrative listening
+AU  - Russo, Andrea G.
+AU  - De Martino, Maria
+AU  - Mancuso, Azzurra
+AU  - Iaconetta, Giorgio
+AU  - Manara, Renzo
+AU  - Elia, Annibale
+AU  - Laudanna, Alessandro
+AU  - Di Salle, Francesco
+AU  - Esposito, Fabrizio
+JO  - NeuroImage
+VL  - 222
+SP  - 117281
+PY  - 2020
+DA  - 2020/11/15/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2020.117281
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811920307679
+KW  - Naturalistic stimulus
+KW  - Surprisal
+KW  - Narrative comprehension
+KW  - Functional MRI
+KW  - Language
+KW  - Italian
+AB  - Probabilistic language models are increasingly used to provide neural representations of linguistic features under naturalistic settings. Word surprisal models can be applied to continuous fMRI recordings during task-free listening of narratives, to detect regions linked to language prediction and comprehension. Here, to this purpose, a novel semantics-weighted lexical surprisal is applied to naturalistic fMRI data. FMRI was performed at 3 Tesla in 31 subjects during task-free listening to a 12-minute audiobook played in both original and word-reversed (control) version. Lexical-only and semantics-weighted lexical surprisal models were estimated for the original and control word series. The two series were alternatively chosen to build the predictor of interest in the first-level general linear model and were compared in the second-level (group) analysis. The addition of the surprisal predictor to the stimulus-related predictors significantly improved the fitting of the neural signal. In average, the semantics-weighted model yielded lower surprisal values and, in some areas, better fitting of the fMRI data compared to the lexical-only model. The two models produced both overlapping and distinct activations: while lexical-only surprisal activated secondary auditory areas in the superior temporal gyri and the cerebellum, semantics-weighted surprisal additionally activated the left inferior frontal gyrus. These results confirm the usefulness of surprisal models in the naturalistic fMRI analysis of linguistic processes and suggest that the use of semantic information may increase the sensitivity of a probabilistic language model in higher-order language-related areas, with possible implications for future naturalistic fMRI studies of language under normal and (clinically or pharmacologically) modified conditions.
+ER  - 
+
+TY  - CHAP
+T1  - 1 - The rise of quantum generative artificial intelligence in smarter eco-cities: evolutionary dynamics, computational advancements, emerging applications, and implementation challenges
+AU  - Bibri, Simon Elias
+BT  - The Next Frontiers of Quantum Generative Intelligence for Smarter Eco-Cities
+PB  - Elsevier
+SP  - 1
+EP  - 100
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-52665-7
+DO  - https://doi.org/10.1016/B978-0-443-52665-7.00012-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443526657000124
+KW  - Generative artificial intelligence
+KW  - Quantum
+KW  - Quantum transformers
+KW  - Smarter eco-cities
+KW  - Synergies
+KW  - Urban–environmental intelligence
+AB  - Setting the stage for an in-depth exploration of the leading transformative technologies reshaping urban ecological sustainability, this introductory chapter illuminates the evolutionary dynamics, highlights the key computational advancements, identifies the emerging synergistic opportunities, maps the evolving applications, and addresses the implementation challenges, all arising from the adoption and convergence of Generative AI (GenAI) and Quantum Computing (QC) in smarter eco-cities. After presenting the background and context of the book, it situates this innovative paradigm within the trajectory of urban development, tracing the progression from eco-cities and smart cities to smart eco-cities and ultimately smarter eco-cities—which serve as living laboratories, experimental sites, and integrative frameworks for advancing environmental sustainability, climate resilience, and infrastructure optimization in complex urban environments. Based on these insights, it introduces a comprehensive framework for integrating the urban, ecological, technological, and computational paradigms that underpin generative, hybrid, and foundation modeling for smarter eco-city intelligence. Building on this integrated perspective, it then examines how AI, GenAI, and QC interact synergistically to establish the computational, algorithmic, and systemic foundations necessary for next-generation smarter eco-city intelligence. Thereafter, it details Quantum Deep Generative Models (QDGMs)—including Quantum Generative Adversarial Networks (QGANs), Quantum Variational Autoencoders (QVAEs), Quantum Diffusion Models (QDMs), Quantum Transformers and Large Language Models (LLMs), as well as the underlying quantum principles, architectural mechanisms, and specialized algorithmic strategies. Subsequently, a comparative analysis assesses how these generative architectures incorporate and operationalize these core quantum foundations, drawing on evidence synthesized from more than 125 empirical and theoretical studies. Emerging applications demonstrate their potential to enhance urban–environmental intelligence, addressing energy, infrastructure, environmental, and climate challenges. The chapter further evaluates the environmental risks, energy implications, and deployment constraints of QDGMs, offering a multidimensional perspective on their technical, computational, hardware, operational, ethical, and governance challenges. Insights from these analyses are synthesized to present a coherent overview of opportunities, limitations, and pathways for integrating quantum generative intelligence into smarter eco-city ecosystems. Through this synthesis, the chapter establishes a unified conceptual and empirical foundation for a detailed exploration in the subsequent chapters, which delve into the architectural design, empirical performance, technical feasibility, contextual relevance, and practical implementation of quantum generative urban-environmental intelligence. Ultimately, it underscores the interdisciplinary, transdisciplinary, and experimental nature of smarter eco-cities and positions this intelligence as a next-generation paradigm for delivering systemic, scalable, and adaptive solutions to the complex challenges of contemporary urban ecosystems.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-scale adaptive semantic entropy framework: Hierarchical detection and early warning mechanism for large language model hallucinations
+AU  - Jiang, Chunmao
+AU  - Zhang, Hao
+AU  - Ye, Ruyi
+JO  - Neurocomputing
+VL  - 695
+SP  - 134000
+PY  - 2026
+DA  - 2026/09/28/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2026.134000
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231226013986
+KW  - Multi-scale semantic entropy
+KW  - Hallucination early warning
+KW  - Adaptive threshold
+KW  - Semantic entropy gradient
+KW  - Hierarchical uncertainty quantification
+KW  - Explainable AI
+AB  - Hallucinations pose a critical challenge for Large Language Models (LLMs) in high-stakes applications. We introduce the Multi-scale Adaptive Semantic Entropy (MASE) framework, which hierarchically computes semantic uncertainty across tokens, phrases, sentences, and paragraphs for precise detection and early intervention. Central to MASE is the novel Semantic Entropy Gradient (SEG), modeling uncertainty evolution dynamically during generation, complemented by a context-aware adaptive threshold that adjusts sensitivity to tasks and domains. Extensive experiments on six benchmarks (TruthfulQA with 817 examples, HaluEval with 35,000, FACTOR with 4,030, BEGIN with 6,468, SelfCheckGPT with 1,908, FActScore with 500; totaling over 48,000 examples)—including detailed ablations and comparisons—validate MASE’s superiority, achieving 70% cost reduction over traditional semantic entropy while detecting 73% of hallucinations within 5 tokens (approximately 30% of typical generation length), outperforming baselines by an average of 9.6% in F1-score. An integrated visual module enables exact localization of hallucination positions and types, offering practical guidance for model refinement.
+ER  - 
+
+TY  - JOUR
+T1  - Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy
+AU  - Dwivedi, Yogesh K.
+AU  - Kshetri, Nir
+AU  - Hughes, Laurie
+AU  - Slade, Emma Louise
+AU  - Jeyaraj, Anand
+AU  - Kar, Arpan Kumar
+AU  - Baabdullah, Abdullah M.
+AU  - Koohang, Alex
+AU  - Raghavan, Vishnupriya
+AU  - Ahuja, Manju
+AU  - Albanna, Hanaa
+AU  - Albashrawi, Mousa Ahmad
+AU  - Al-Busaidi, Adil S.
+AU  - Balakrishnan, Janarthanan
+AU  - Barlette, Yves
+AU  - Basu, Sriparna
+AU  - Bose, Indranil
+AU  - Brooks, Laurence
+AU  - Buhalis, Dimitrios
+AU  - Carter, Lemuria
+AU  - Chowdhury, Soumyadeb
+AU  - Crick, Tom
+AU  - Cunningham, Scott W.
+AU  - Davies, Gareth H.
+AU  - Davison, Robert M.
+AU  - Dé, Rahul
+AU  - Dennehy, Denis
+AU  - Duan, Yanqing
+AU  - Dubey, Rameshwar
+AU  - Dwivedi, Rohita
+AU  - Edwards, John S.
+AU  - Flavián, Carlos
+AU  - Gauld, Robin
+AU  - Grover, Varun
+AU  - Hu, Mei-Chih
+AU  - Janssen, Marijn
+AU  - Jones, Paul
+AU  - Junglas, Iris
+AU  - Khorana, Sangeeta
+AU  - Kraus, Sascha
+AU  - Larsen, Kai R.
+AU  - Latreille, Paul
+AU  - Laumer, Sven
+AU  - Malik, F. Tegwen
+AU  - Mardani, Abbas
+AU  - Mariani, Marcello
+AU  - Mithas, Sunil
+AU  - Mogaji, Emmanuel
+AU  - Nord, Jeretta Horn
+AU  - O’Connor, Siobhan
+AU  - Okumus, Fevzi
+AU  - Pagani, Margherita
+AU  - Pandey, Neeraj
+AU  - Papagiannidis, Savvas
+AU  - Pappas, Ilias O.
+AU  - Pathak, Nishith
+AU  - Pries-Heje, Jan
+AU  - Raman, Ramakrishnan
+AU  - Rana, Nripendra P.
+AU  - Rehm, Sven-Volker
+AU  - Ribeiro-Navarrete, Samuel
+AU  - Richter, Alexander
+AU  - Rowe, Frantz
+AU  - Sarker, Suprateek
+AU  - Stahl, Bernd Carsten
+AU  - Tiwari, Manoj Kumar
+AU  - van der Aalst, Wil
+AU  - Venkatesh, Viswanath
+AU  - Viglia, Giampaolo
+AU  - Wade, Michael
+AU  - Walton, Paul
+AU  - Wirtz, Jochen
+AU  - Wright, Ryan
+JO  - International Journal of Information Management
+VL  - 71
+SP  - 102642
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2023.102642
+UR  - https://www.sciencedirect.com/science/article/pii/S0268401223000233
+KW  - Conversational agent
+KW  - Generative artificial intelligence
+KW  - Generative AI
+KW  - ChatGPT
+KW  - Large language models
+AB  - Transformative artificially intelligent tools, such as ChatGPT, designed to generate sophisticated text indistinguishable from that produced by a human, are applicable across a wide range of contexts. The technology presents opportunities as well as, often ethical and legal, challenges, and has the potential for both positive and negative impacts for organisations, society, and individuals. Offering multi-disciplinary insight into some of these, this article brings together 43 contributions from experts in fields such as computer science, marketing, information systems, education, policy, hospitality and tourism, management, publishing, and nursing. The contributors acknowledge ChatGPT’s capabilities to enhance productivity and suggest that it is likely to offer significant gains in the banking, hospitality and tourism, and information technology industries, and enhance business activities, such as management and marketing. Nevertheless, they also consider its limitations, disruptions to practices, threats to privacy and security, and consequences of biases, misuse, and misinformation. However, opinion is split on whether ChatGPT’s use should be restricted or legislated. Drawing on these contributions, the article identifies questions requiring further research across three thematic areas: knowledge, transparency, and ethics; digital transformation of organisations and societies; and teaching, learning, and scholarly research. The avenues for further research include: identifying skills, resources, and capabilities needed to handle generative AI; examining biases of generative AI attributable to training datasets and processes; exploring business and societal contexts best suited for generative AI implementation; determining optimal combinations of human and generative AI for various tasks; identifying ways to assess accuracy of text produced by generative AI; and uncovering the ethical and legal issues in using generative AI across different contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Toward smart aquaculture: A review of multimodal methods, datasets, and applications from the modality perspective
+AU  - Zhang, Qinyue
+AU  - Wang, Shasha
+AU  - Zhang, Tianshu
+AU  - Ren, Guiming
+AU  - Zhang, Lingling
+AU  - Wang, Yangfan
+AU  - Zheng, Bing
+AU  - Li, Juan
+AU  - Zheng, Haiyong
+JO  - Computers and Electronics in Agriculture
+VL  - 240
+SP  - 111227
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2025.111227
+UR  - https://www.sciencedirect.com/science/article/pii/S016816992501333X
+KW  - Smart aquaculture
+KW  - Multimodal fusion
+KW  - Multimodal dataset
+KW  - Environmental monitoring
+KW  - Feeding behavior
+AB  - In smart aquaculture, combining sensing modalities – vision, acoustics, and environmental probes – helps overcome single-sensor limits in water-quality monitoring, disease detection, and behavior analysis. This review organizes prior work by modality combinations (including a large language model (LLM)–guided net-pen inspection prototype with a remotely operated vehicle (ROV) and an autonomous underwater vehicle (AUV), synchronized camera–sonar trials that quantify salmon responses and enable counting and sizing in industrial sea cages, a buoy-relayed ROV platform for long-running video and water-quality monitoring in Taiwan, fjord-stratification-aware echo-feeding that adapts appetite triggers over seasons, and a trimodal observatory combining cameras, imaging sonar, and environmental probes), deployment patterns, and aquaculture applications. We compare the strengths of each pairing for core tasks – biomass estimation, infrastructure inspection, and health monitoring – and summarize design choices that matter in practice. Evidence from real-world deployments (e.g., vision-language net-pen inspection, synchronized vision-sonar trials in commercial salmon cages, and fjord-stratification-aware echo-feeding) illustrates gains in robustness and accuracy. We also catalog publicly available multimodal datasets and assess suitability by species, environment, duration, and modality coverage to guide benchmarking and data collection. Finally, we highlight trends in lightweight edge computing, large language model interfaces, and digital-twin integration. Framed around sensor pairings rather than tasks, the review provides an implementation-oriented roadmap for intelligent, resilient, and scalable monitoring systems that bridge recent advances with day-to-day farming needs.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding critical thinking in generative artificial intelligence use: Development, validation, and correlates of the critical thinking in AI use scale
+AU  - Lau, Gabriel R.
+AU  - Low, Wei Yan
+AU  - Tay, Louis
+AU  - Guevarra, Ysabel A.
+AU  - Gašević, Dragan
+AU  - Hartanto, Andree
+JO  - Computers in Human Behavior Reports
+VL  - 22
+SP  - 101103
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 2451-9588
+DO  - https://doi.org/10.1016/j.chbr.2026.101103
+UR  - https://www.sciencedirect.com/science/article/pii/S2451958826001776
+KW  - critical thinking
+KW  - scale
+KW  - generative AI
+KW  - LLM
+KW  - psychometric validation
+KW  - fact-checking
+KW  - misinformation
+AB  - Generative AI tools are increasingly embedded in everyday work and learning, yet their fluency, opacity, and propensity to hallucinate mean that users must critically evaluate AI outputs rather than accept them at face value. The present research conceptualises critical thinking in AI use as a dispositional tendency to verify the source and content of AI-generated information, to understand how models work and where they fail, and to reflect on the broader implications of relying on AI. Across six studies (N = 1341), we developed and validated the 13-item critical thinking in AI use scale and mapped its nomological network. Study 1 generated and content-validated scale items. Study 2 supported a three-factor structure (Verification, Motivation, and Reflection). Studies 3 and 4 confirmed the higher-order model, demonstrated strong factor loadings, internal consistency, sex invariance, convergent and discriminant evidence for validity, and showed that critical thinking in AI use was positively associated with openness, extraversion, positive trait affect, and frequency of AI use. Study 5 supported the scale's test-retest reliability. Lastly, Study 6 demonstrated criterion evidence of validity for the scale, with higher critical thinking in AI use scores predicting more frequent and diverse verification strategies, greater veracity judgement accuracy in a novel and naturalistic GPT-powered AI chatbot fact-checking task, and deeper reflection about responsible AI. The current work clarifies why and how people exercise oversight over generative AI outputs and provides a validated scale and ecologically grounded paradigm to support theory testing, cross-group, and longitudinal research on critical thinking in AI use.
+ER  - 
+
+TY  - JOUR
+T1  - BATED: Learning fair representation for Pre-trained Language Models via biased teacher-guided disentanglement
+AU  - Li, Yingji
+AU  - Du, Mengnan
+AU  - Song, Rui
+AU  - Liu, Mu
+AU  - Wang, Ying
+JO  - Artificial Intelligence
+VL  - 348
+SP  - 104401
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0004-3702
+DO  - https://doi.org/10.1016/j.artint.2025.104401
+UR  - https://www.sciencedirect.com/science/article/pii/S0004370225001201
+KW  - Pre-trained Language Models
+KW  - Fairness
+KW  - Social bias
+KW  - Feature disentanglement
+KW  - Causal contrastive learning
+AB  - With the rapid development of Pre-trained Language Models (PLMs) and their widespread deployment in various real-world applications, social biases of PLMs have attracted increasing attention, especially the fairness of downstream tasks, which potentially affects the development and stability of society. Among existing debiasing methods, intrinsic debiasing methods are not necessarily effective when applied to downstream tasks, and the downstream fine-tuning process may introduce new biases or catastrophic forgetting. Most extrinsic debiasing methods rely on sensitive attribute words as prior knowledge to supervise debiasing training. However, it is difficult to collect sensitive attribute information of real data due to privacy and regulation. Moreover, limited sensitive attribute words may lead to inadequate debiasing training. To this end, this paper proposes a debiasing method to learn fair representation for PLMs via BiAsed TEacher-guided Disentanglement (called BATED). Specific to downstream tasks, BATED performs debiasing training under the guidance of a biased teacher model rather than relying on sensitive attribute information of the training data. First, we leverage causal contrastive learning to train a task-agnostic general biased teacher model. We then employ Variational Auto-Encoder (VAE) to disentangle the PLM-encoded representation into the fair representation and the biased representation. The Biased representation is further decoupled via biased teacher-guided disentanglement, while the fair representation learn downstream tasks. Therefore, BATED guarantees the performance of downstream tasks while improving the fairness. Experimental results on seven PLMs testing three downstream tasks demonstrate that BATED outperforms the state-of-the-art overall in terms of fairness and performance on downstream tasks.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 9 - Deep Neural Networks for Natural Language Processing
+AU  - Fathi, Ehsan
+AU  - Maleki Shoja, Babak
+A2  - Gudivada, Venkat N.
+A2  - Rao, C.R.
+BT  - Handbook of Statistics
+PB  - Elsevier
+VL  - 38
+SP  - 229
+EP  - 316
+PY  - 2018
+DA  - 2018/01/01/
+T2  - Computational Analysis and Understanding of Natural Languages: Principles, Methods and Applications
+SN  - 0169-7161
+DO  - https://doi.org/10.1016/bs.host.2018.07.006
+UR  - https://www.sciencedirect.com/science/article/pii/S016971611830021X
+KW  - Deep learning
+KW  - Neural network
+KW  - Convolutional neural networks
+KW  - Word vectors
+KW  - Regularization
+KW  - Sequence modeling
+AB  - This chapter discusses the application of deep neural networks for natural language processing. First, we discuss word vector representation followed by feedforward neural networks. Next, training of deep neural network models and their optimization are discussed. Regularization for deep learning is discussed in detail. Application of deep neural approaches to language modeling is described. Lastly, convolutional neural networks and memory are described.
+ER  - 
+
+TY  - JOUR
+T1  - A review on deep learning for vision-based hand detection, hand segmentation and hand gesture recognition in human–robot interaction
+AU  - Jalayer, Reza
+AU  - Jalayer, Masoud
+AU  - Orsenigo, Carlotta
+AU  - Tomizuka, Masayoshi
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 97
+SP  - 103110
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2025.103110
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584525001644
+KW  - Human–robot interaction
+KW  - Hand gesture
+KW  - Foundation models
+KW  - Collaborative robots
+KW  - Deep learning
+KW  - Multi-modal interaction
+AB  - Hand-based analysis, including hand detection, segmentation, and gesture recognition, plays a pivotal role in enabling natural and intuitive human–robot interaction (HRI). Recent advances in vision-based deep learning (DL) have significantly improved robots’ ability to interpret hand cues across diverse settings. However, previous reviews have not addressed all three tasks collectively or focused on recent DL architectures. Filling this gap, we review recent studies at the intersection of DL and hand-based interaction in HRI. We structure the literature around three core tasks, i.e. hand detection, segmentation, and gesture recognition, highlighting DL models, dataset characteristics, evaluation metrics, and key challenges for each. We further examine the application of these models across industrial, assistive, social, aerial, and space robotics domains. We identify the dominant role of Convolutional and Recurrent Neural Networks (CNNs and RNNs), as well as emerging approaches such as attention-based models (Transformers), uncertainty-aware models, Graph Neural Networks (GNNs), and foundation models, i.e. Vision-Language Models (VLMs) and Large Language Models (LLMs). Our analysis reveals gaps, including the scarcity of HRI-specific datasets, underrepresentation of multi-hand and multi-user scenarios, limited use of RGBD and multi-modal inputs, weak cross-dataset generalization, and inconsistent real-time benchmarking. Dynamic and long-range gestures, multi-view setups, and context-aware understanding also remain relatively underexplored. Despite these limitations, promising directions have emerged, such as multi-modal fusion, use of foundation models for intent reasoning, and the development of lightweight architectures for deployment. This review offers a consolidated foundation to support future research on robust and context-aware DL systems for hand-centric HRI.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advancements and challenges of NLP-based sentiment analysis: A state-of-the-art review
+AU  - Jim, Jamin Rahman
+AU  - Talukder, Md Apon Riaz
+AU  - Malakar, Partha
+AU  - Kabir, Md Mohsin
+AU  - Nur, Kamruddin
+AU  - Mridha, M.F.
+JO  - Natural Language Processing Journal
+VL  - 6
+SP  - 100059
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 2949-7191
+DO  - https://doi.org/10.1016/j.nlp.2024.100059
+UR  - https://www.sciencedirect.com/science/article/pii/S2949719124000074
+KW  - Sentiment classification
+KW  - Text classification
+KW  - Natural language processing
+KW  - Emotion detection
+KW  - Sentiment analysis
+AB  - Sentiment analysis is a method within natural language processing that evaluates and identifies the emotional tone or mood conveyed in textual data. Scrutinizing words and phrases categorizes them into positive, negative, or neutral sentiments. The significance of sentiment analysis lies in its capacity to derive valuable insights from extensive textual data, empowering businesses to grasp customer sentiments, make informed choices, and enhance their offerings. For the further advancement of sentiment analysis, gaining a deep understanding of its algorithms, applications, current performance, and challenges is imperative. Therefore, in this extensive survey, we began exploring the vast array of application domains for sentiment analysis, scrutinizing them within the context of existing research. We then delved into prevalent pre-processing techniques, datasets, and evaluation metrics to enhance comprehension. We also explored Machine Learning, Deep Learning, Large Language Models and Pre-trained models in sentiment analysis, providing insights into their advantages and drawbacks. Subsequently, we precisely reviewed the experimental results and limitations of recent state-of-the-art articles. Finally, we discussed the diverse challenges encountered in sentiment analysis and proposed future research directions to mitigate these concerns. This extensive review provides a complete understanding of sentiment analysis, covering its models, application domains, results analysis, challenges, and research directions.
+ER  - 
+
+TY  - JOUR
+T1  - Recent trends in distant conversational speech recognition: A review of CHiME-7 and 8 DASR challenges
+AU  - Cornell, Samuele
+AU  - Boeddeker, Christoph
+AU  - Park, Taejin
+AU  - Huang, He
+AU  - Raj, Desh
+AU  - Wiesner, Matthew
+AU  - Masuyama, Yoshiki
+AU  - Chang, Xuankai
+AU  - Wang, Zhong-Qiu
+AU  - Squartini, Stefano
+AU  - Garcia, Paola
+AU  - Watanabe, Shinji
+JO  - Computer Speech & Language
+VL  - 97
+SP  - 101901
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 0885-2308
+DO  - https://doi.org/10.1016/j.csl.2025.101901
+UR  - https://www.sciencedirect.com/science/article/pii/S0885230825001263
+KW  - Robust automatic speech recognition
+KW  - Meeting transcription
+KW  - Speaker diarization
+KW  - Microphone array processing
+KW  - Speech separation
+KW  - Multi-talker automatic speech recognition
+AB  - The CHiME-7 and 8 distant speech recognition (DASR) challenges focus on multi-channel, generalizable, joint automatic speech recognition (ASR) and diarization of conversational speech. With participation from 9 teams submitting 32 diverse systems, these challenges have contributed to state-of-the-art research in the field. This paper outlines the challenges’ design, evaluation metrics, datasets, and baseline systems while analyzing key trends from participant submissions. From this analysis it emerges that: (1) Most participants use end-to-end (e2e) ASR systems, whereas hybrid systems were prevalent in previous CHiME challenges. This transition is mainly due to the availability of robust large-scale pre-trained models, which lowers the data burden for e2e-ASR. (2) Despite recent advances in neural speech separation and enhancement (SSE), all teams still heavily rely on guided source separation, suggesting that current neural SSE techniques are still unable to reliably deal with complex scenarios and different recording setups. (3) All best systems employ diarization refinement via target-speaker diarization techniques. Accurate speaker counting in the first diarization pass is thus crucial to avoid compounding errors and CHiME-8 DASR participants especially focused on this part. (4) Downstream evaluation via meeting summarization can correlate weakly with transcription quality due to the remarkable effectiveness of large-language models in handling errors. On the NOTSOFAR-1 scenario, even systems with over 50% time-constrained minimum permutation WER can perform roughly on par with the most effective ones (around 11%). (5) Despite recent progress, accurately transcribing spontaneous speech in challenging acoustic environments remains difficult, even when using computationally intensive system ensembles.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 19 - Human-AI collaboration in chemical engineering
+AU  - Hassan, Junaid
+AU  - Abdinejad, Maryam
+AU  - Américo-Pinheiro, Juliana Heloisa Pinê
+AU  - Ul Hai, Irfan
+AU  - Chupin, Alexander
+AU  - Erten, Begum
+A2  - Sher, Farooq
+BT  - Artificial Intelligence in Chemical Engineering
+PB  - Elsevier
+SP  - 593
+EP  - 626
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-34076-5
+DO  - https://doi.org/10.1016/B978-0-443-34076-5.00026-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443340765000262
+KW  - Artificial intelligence
+KW  - chemical engineering
+KW  - machine learning
+KW  - decision support system
+KW  - industrial applications
+KW  - human-centered computing
+KW  - computational intelligence
+KW  - behavioral psychology
+KW  - geomatics
+KW  - network
+KW  - cognitive process
+KW  - data science
+AB  - This chapter examines the revolutionary influence of artificial intelligence (AI) on chemical engineering, emphasizing the synergistic interplay between human knowledge and AI technology. It analyzes the progression of AI applications from basic rule-based systems to advanced machine learning models adept at managing intricate data sets and enhancing chemical processes. The chapter explores many AI approaches, including deep learning, natural language processing, and automated decision-making, in relation to essential activities such as process design, response optimization, and safety evaluations. The chapter also emphasizes the creation of transparent AI-assisted frameworks that enable the smooth incorporation of AI technologies into conventional chemical engineering processes. AI has been incorporated into operations by 35% of companies. AI is being used in one form or another by 25% of small businesses. 42% of firms are thinking about integrating AI into their operations in the future. More than half of big industries with more than 5,000 workers use AI. This chapter illustrates the effectiveness of fine-tuned big language models in chemical text mining, highlighting their capacity to extract pertinent information from extensive chemical literature, thus considerably reducing the time and effort needed for research endeavors. The chapter also discusses human aspects in AI interfaces, highlighting the significance of user experience in promoting productive cooperation. Examining parameters associated with cognitive load and situational awareness encourages constructing AI systems that enhance human skills. This chapter clarifies the prospective role of human-AI collaboration in fostering innovation and sustainability in chemical engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Generative AI-Integrated Multi-Agent DRL Frameworks for Autonomy in UAV Swarm Networks: State-of-the-Art, Case Study, and Challenges
+AU  - Alam, Muhammad Morshed
+AU  - Arafat, Muhammad Yeasir
+AU  - Noor-A-Rahim, Md
+AU  - Pesch, Dirk
+JO  - Ad Hoc Networks
+SP  - 104499
+PY  - 2026
+DA  - 2026/11/15/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2026.104499
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870526003653
+KW  - Generative artificial intelligence
+KW  - intent-based network management
+KW  - multi-agent deep reinforcement learning
+KW  - resource allocation
+KW  - task allocation
+KW  - trajectory design
+KW  - UAV swarm networks
+AB  - The complexity and dynamic nature of unmanned aerial vehicle (UAV) swarm networks (USNs) require intelligent, scalable, and adaptive solutions for full autonomy. Generative artificial intelligence (GenAI) models such as generative adversarial networks, variational autoencoders, diffusion models, and transformers have emerged as powerful tools for addressing optimization challenges in USNs. This article makes two complementary contributions. First, this paper reviews GenAI models, detailing their architecture, strengths, limitations, and potential to enhance autonomy in USNs. We highlight how GenAI, particularly when combined with multi-agent deep reinforcement learning (MA-DRL), supports adaptive state estimation, synthetic data augmentation, knowledge transfer, and intent-aware decision-making across key USN applications, including task allocation, trajectory optimization, channel estimation, beamforming, resource management, energy harvesting, and security. A detailed survey of recent GenAI-integrated value and policy-based MA-DRL frameworks is provided, with a focus on modifications in internal neural networks, training, loss, and reward function design. Second, beyond the survey, an illustrative case study is presented featuring a large language model-driven heterogeneous multi-agent self- and cross-attention-based multi-expert actor-critic framework for a high-altitude platform-assisted USN mission, jointly optimizing UAV trajectory, task offloading, and resource allocation under complex mobility, quality of service, and resource constraints. Simulation results show that the proposed framework reduces the age of task processing by approximately 21–48% and normalized energy consumption by 19–44% compared with the considered benchmarks. Finally, the paper identifies practical deployment issues and open research challenges for advancing GenAI-enabled autonomy in USNs.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 7 - Data-driven models
+AU  - Lazebnik, Teddy
+BT  - Epidemic Modeling
+PB  - Academic Press
+SP  - 171
+EP  - 223
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-55525-1
+DO  - https://doi.org/10.1016/B978-0-44-355525-1.00013-8
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443555251000138
+KW  - Data-driven models
+KW  - Time-series forecasting
+KW  - ARIMA/SARIMA
+KW  - Nowcasting
+KW  - Machine learning
+KW  - Deep learning
+KW  - Large language models
+KW  - Surveillance data
+KW  - Distribution shift
+KW  - Uncertainty quantification
+AB  - Chapter 7 surveys data-driven epidemic modeling as an alternative and complement to mechanistic approaches, focusing on methods that learn predictive structure directly from surveillance data. It begins with classical time-series formulations, including observation models for counts, ARIMA/SARIMA, state-space methods, and nowcasting layers that correct reporting delays and stabilize the effective forecasting boundary. The chapter then moves to machine-learning models that use engineered lagged and exogenous features, followed by deep-learning architectures that learn representations from sequential, multimodal, and spatio-temporal inputs. It concludes with large language models, presented not primarily as replacements for epidemiological forecasters, but as tools for extracting, structuring, and integrating textual information such as outbreak bulletins and policy reports into forecasting pipelines. Throughout, the chapter stresses leakage-safe design, time-respecting validation, uncertainty assessment, and robustness under distribution shift.
+ER  - 
+
+TY  - JOUR
+T1  - Dialog summarization for software collaborative platform via tuning pre-trained models
+AU  - Fan, Guodong
+AU  - Chen, Shizhan
+AU  - Wu, Hongyue
+AU  - Gao, Cuiyun
+AU  - Xiao, Jianmao
+AU  - Xue, Xiao
+AU  - Feng, Zhiyong
+JO  - Journal of Systems and Software
+VL  - 204
+SP  - 111763
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111763
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223001589
+KW  - Software maintenance
+KW  - Text summarization
+KW  - Pre-trained language model
+KW  - Prompt tuning
+KW  - Live chat
+AB  - Software collaborative platforms, e.g., Gitter live chat and GitHub Discussions, are essential in software maintenance. Summarizing the live chat logs is useful for extracting, retrieving, and sharing knowledge for software developers. Automatic text summarization has been studied in many areas such as code summarization, and title generation. However, the previous studies rely on rich collected labeled data for model training which are absent for the noisy interleaved dialogs, resulting in poor performance in the few-shot scenario. To tackle the issue, we propose a novel Automatic Dialog Summarization Approach based on pre-trained models, named ADSum. To alleviate the high-cost problem of the from-scratch manual annotation, ADSum finetunes the Text-To-Text Transfer Transformer (T5) model by exploiting the discussion posts on GitHub, and then recommends summaries for an annotator. To solve the poor performance in the few-shot scenario, we propose to employ the prompt tuning paradigm for tuning the T5 model by exploiting the disentangled dialog data on Gitter. Meanwhile, the soft prompt is used to avoid the manual effort of designing appropriate prompt templates. To verify the effectiveness of our approach, we extract 38,964 high-quality discussion posts from GitHub and manually annotate 3,039 dialog summarizations from Gitter. Experimental results show our approach achieves state-of-the-art performance in terms of three performance metrics. In particular, our proposed method outperformed the Transformer-based and other pre-training models by 39% and 14%, respectively, on the GitHub dataset regarding the Rouge-L metric. The experiments of handling data scarcity and a human evaluation also confirm the effectiveness of ADSum.
+ER  - 
+
+TY  - JOUR
+T1  - The status, evolution, and future challenges of multimodal large language models (LLMs) in parametric CAD
+AU  - Zhou, Jiwei
+AU  - Camba, Jorge D.
+JO  - Expert Systems with Applications
+VL  - 282
+SP  - 127520
+PY  - 2025
+DA  - 2025/07/05/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2025.127520
+UR  - https://www.sciencedirect.com/science/article/pii/S095741742501142X
+KW  - Artificial intelligence
+KW  - Large language models
+KW  - LLMs
+KW  - CAD
+KW  - Parametric CAD modeling
+KW  - Engineering design
+KW  - Product development
+AB  - Parametric Computer-Aided Design (CAD) systems are fundamental tools in mechanical and product design to facilitate the precise generation of complex geometries. However, their steep learning curve restricts accessibility to non-experts, hindering collaboration and creativity in engineering workflows. Recent breakthroughs in Artificial Intelligence (AI), especially Large Language Models (LLMs), are providing new opportunities to redefine parametric CAD workflows. By enabling natural language and multimodal interactions, LLMs can reduce technical obstacles and allow users to intuitively convey design intents and requirements. This work critically examines the intersection between LLMs and parametric CAD modeling, emphasizing key advancements in automating tasks such as 2D sketching, 3D model generation, and design optimization. It also discusses progress in natural language interface development and identifies current challenges. Although LLMs exhibit the capacity to improve productivity and design accessibility, obstacles remain in understanding design intent and context, managing intricate geometries, optimizing model training with diverse datasets and benchmarking frameworks, guaranteeing interoperability, scalability, and security within CAD systems, and expanding industrial applications. Through a thorough analysis, this review identifies essential areas for future research to enable the practical integration of LLMs and parametric CAD modeling. The results highlight the potential of LLMs to simplify design processes, stimulate creativity, and reshape engineering design practices across applications in mechanical product development.
+ER  - 
+
+TY  - JOUR
+T1  - A coupling analysis framework for ship welding quality causal factors integrating knowledge graph and NK model
+AU  - Chen, Ruquan
+AU  - Yin, Jun
+AU  - Ge, Shilun
+AU  - Wang, Nianxin
+JO  - Ocean Engineering
+VL  - 363
+SP  - 126620
+PY  - 2026
+DA  - 2026/08/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2026.126620
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801826024546
+KW  - Knowledge graph
+KW  - NK model
+KW  - Ship welding quality
+KW  - Coupling analysis
+AB  - Shipbuilding welding quality fundamentally dictates the structural integrity and safety of marine vessels. However, these quality problems are triggered by multidimensional, interacting risk factors, which traditional reliability assessments struggle to interpret due to a lack of semantic depth. Therefore, this paper proposes a coupling analysis framework integrating a knowledge graph and the NK model to quantify the coupling intensity among factors of ship welding quality problems and reveal their semantic relationships. Specifically, a domain ontology is constructed based on Grounded Theory and combined with a large language model (LLM) to achieve automated construction of the knowledge graph, providing semantic constraints. By combining mutual information with directed transition probability, a G-NK (Graph-enhanced NK) integrated coupling model is constructed to measure semantic coupling among multidimensional factors and mine potential coupling patterns. Using welding quality problem reports from Z Shipbuilding Company and an external validation dataset from another shipyard, the framework is evaluated in terms of ranking quality, coupling-strength discrimination, interpretability, expert consistency, and robustness. Results show that G-NK outperforms complex-network and Bayesian forest baselines, achieving an nDCG@15 of 0.705. Compared with the traditional NK model, it produces more discriminative coupling-strength results and transforms vague high-coupling factor sets into fine-grained risk propagation paths. Informativeness evaluation further shows that G-NK explanatory paths preserve more model-output information than NK-only and KG-only baselines. The model rankings are also highly consistent with human and LLM expert judgments. This approach equips marine production teams with actionable insights for detecting latent problems and designing targeted interventions. The source code is available at https://github.com/sakura1234876/marine-welding-gnk-risk-analysis.
+ER  - 
+
+TY  - JOUR
+T1  - DRIVE: Diagnostic Report Integration via VLM and LLM Explanations for Explainable Vehicle Engine Fault Diagnosis
+AU  - Lee, Jaeseung
+AU  - Rew, Jehyeok
+JO  - CMES - Computer Modeling in Engineering and Sciences
+VL  - 147
+IS  - 1
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1526-1492
+DO  - https://doi.org/10.32604/cmes.2026.076888
+UR  - https://www.sciencedirect.com/science/article/pii/S1526149226001426
+KW  - Vehicle engine
+KW  - fault diagnosis
+KW  - vision-language model
+KW  - large language model
+KW  - explainable artificial intelligence
+KW  - local interpretable model-agnostic explanations
+KW  - Shapley additive explanations
+KW  - energy
+AB  - The engine serves as the primary component that generates power and drives vehicle movement. Given its critical role, accurately diagnosing engine faults is essential for ensuring vehicle safety and reliability. Recent advances in machine learning (ML) have enabled the development of artificial intelligence (AI)-based diagnostic models with strong predictive performance. However, the lack of transparency in these models constrains user confidence in their diagnostic outcomes. While explainable AI (XAI) methods such as local interpretable model-agnostic explanations (LIME) and Shapley additive explanations (SHAP) have been introduced to improve interpretability, their reliance on visual outputs requires manual interpretation, which can be inefficient and prone to subjectivity. To address this limitation, we propose DRIVE, a novel method for explainable vehicle engine fault diagnosis. In DRIVE, LIME and SHAP are applied to an ML-based diagnostic model, and their visual outputs are translated into textual explanations using the vision-language models (VLMs). These complementary explanations are then synthesized by a large language model (LLM) into a unified diagnostic report, providing a coherent narrative of the model’s reasoning and emphasizing abnormal input features. Experiments conducted on a publicly available vehicle engine fault dataset demonstrate that DRIVE not only produces accurate and transparent diagnostic rationales but also generates structured reports that enhance usability for domain experts. By integrating multiple XAI methods with multimodal LLMs, DRIVE advances the transparency, trustworthiness, and practicality of AI-driven vehicle engine fault diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Generative AI for synthetic data across multiple medical modalities: A systematic review of recent developments and challenges
+AU  - Ibrahim, Mahmoud
+AU  - Khalil, Yasmina Al
+AU  - Amirrajab, Sina
+AU  - Sun, Chang
+AU  - Breeuwer, Marcel
+AU  - Pluim, Josien
+AU  - Elen, Bart
+AU  - Ertaylan, Gökhan
+AU  - Dumontier, Michel
+JO  - Computers in Biology and Medicine
+VL  - 189
+SP  - 109834
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2025.109834
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482525001842
+KW  - Generative models
+KW  - Synthetic data
+KW  - Medical data
+KW  - EHR and physiological signals
+KW  - Medical imaging
+KW  - Medical text
+AB  - This paper presents a comprehensive systematic review of generative models (GANs, VAEs, DMs, and LLMs) used to synthesize various medical data types, including imaging (dermoscopic, mammographic, ultrasound, CT, MRI, and X-ray), text, time-series, and tabular data (EHR). Unlike previous narrowly focused reviews, our study encompasses a broad array of medical data modalities and explores various generative models. Our aim is to offer insights into their current and future applications in medical research, particularly in the context of synthesis applications, generation techniques, and evaluation methods, as well as providing a GitHub repository as a dynamic resource for ongoing collaboration and innovation. Our search strategy queries databases such as Scopus, PubMed, and ArXiv, focusing on recent works from January 2021 to November 2023, excluding reviews and perspectives. This period emphasizes recent advancements beyond GANs, which have been extensively covered in previous reviews. The survey also emphasizes the aspect of conditional generation, which is not focused on in similar work. Key contributions include a broad, multi-modality scope that identifies cross-modality insights and opportunities unavailable in single-modality surveys. While core generative techniques are transferable, we find that synthesis methods often lack sufficient integration of patient-specific context, clinical knowledge, and modality-specific requirements tailored to the unique characteristics of medical data. Conditional models leveraging textual conditioning and multimodal synthesis remain underexplored but offer promising directions for innovation. Our findings are structured around three themes: (1) Synthesis applications, highlighting clinically valid synthesis applications and significant gaps in using synthetic data beyond augmentation, such as for validation and evaluation; (2) Generation techniques, identifying gaps in personalization and cross-modality innovation; and (3) Evaluation methods, revealing the absence of standardized benchmarks, the need for large-scale validation, and the importance of privacy-aware, clinically relevant evaluation frameworks. These findings emphasize the need for benchmarking and comparative studies to promote openness and collaboration.
+ER  - 
+
+TY  - JOUR
+T1  - Semantic Visual Simultaneous Localization and Mapping: A survey on state of the art, challenges, and future directions
+AU  - Canh, Thanh Nguyen
+AU  - Zhang, Haolan
+AU  - HoangVan, Xiem
+AU  - Chong, Nak Young
+JO  - Robotics and Autonomous Systems
+VL  - 203
+SP  - 105535
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/j.robot.2026.105535
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889026002071
+KW  - Semantic vSLAM
+KW  - Semantic mapping
+KW  - Visual SLAM
+KW  - Visual localization
+AB  - Semantic Visual Simultaneous Localization and Mapping (Semantic vSLAM) is a critical area of research in robotics and computer vision, focusing on the simultaneous localization of robotic systems and the association of semantic information to construct the most accurate and comprehensive model of the surrounding environment. Since the first foundational work on Semantic vSLAM appeared more than two decades ago, the field has attracted increasing attention across various scientific communities. Despite its significance, the field lacks comprehensive surveys encompassing recent advances and persistent challenges. In response, this study provides a thorough examination of the state-of-the-art of Semantic vSLAM techniques, with the aim of illuminating current trends and key obstacles. Beginning with an in-depth exploration of the evolution of visual SLAM, this study outlines its strengths and unique characteristics while also critically assessing previous survey literature. Subsequently, a unified problem formulation and evaluation of the modular solution framework is proposed, which decomposes the problem into discrete stages, including visual localization, semantic feature extraction, mapping, data association, and loop closure optimization. Moreover, this study investigates alternative methodologies such as deep learning and the utilization of large language models, alongside a review of relevant research about contemporary SLAM datasets. Concluding with a discussion on potential future research directions, this study serves as a comprehensive resource for researchers seeking to navigate the complex landscape of Semantic vSLAM.
+ER  - 
+
+TY  - JOUR
+T1  - Cross-lingual transfer learning for knowledge graph acquisition: Paradigms, resources and challenges
+AU  - Chen, Wei-Lin
+AU  - Zhou, Kai-Qing
+AU  - Sarkheyli-Hägele, Arezoo
+AU  - Qin, Feng
+AU  - Hasikin, Khairunnisa
+AU  - Kang, Di-Wen
+AU  - Zain, Azlan Mohd
+JO  - Expert Systems with Applications
+VL  - 303
+SP  - 130434
+PY  - 2026
+DA  - 2026/03/25/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2025.130434
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417425040497
+KW  - Knowledge graph
+KW  - Cross-lingual transfer learning
+KW  - Knowledge acquisition
+KW  - Low-resource languages
+KW  - Information extraction
+AB  - Knowledge graphs play a pivotal role in structuring human knowledge within artificial intelligence systems. Nonetheless, knowledge distribution is markedly uneven across languages, and linguistic community activity can hinder the performance and scale. Cross-lingual transfer learning emerges as a predominant effective strategy to surmount linguistic barriers, facilitating knowledge transfer across natural languages. This paper reviews cross-lingual knowledge acquisition for knowledge graphs, offering the first systematic integration of cross-lingual transfer paradigms and resources in this field. It critically examines the state of research across subtasks (including named entity recognition, relation extraction, coreference resolution and entity linking). Despite the advancements facilitated by multilingual word embeddings, pre-trained language models and large language models, persistent challenges such as language bias-induced alignment difficulties and low transfer efficiency continue to impede progress. Enhancing model effectiveness through both paradigms and resources will benefit the future construction of multilingual or minor-language knowledge graphs.
+ER  - 
+
+TY  - JOUR
+T1  - Pre-Trained Language Models and Their Applications
+AU  - Wang, Haifeng
+AU  - Li, Jiwei
+AU  - Wu, Hua
+AU  - Hovy, Eduard
+AU  - Sun, Yu
+JO  - Engineering
+VL  - 25
+SP  - 51
+EP  - 65
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 2095-8099
+DO  - https://doi.org/10.1016/j.eng.2022.04.024
+UR  - https://www.sciencedirect.com/science/article/pii/S2095809922006324
+KW  - Pre-trained models
+KW  - Natural language processing
+AB  - Pre-trained language models have achieved striking success in natural language processing (NLP), leading to a paradigm shift from supervised learning to pre-training followed by fine-tuning. The NLP community has witnessed a surge of research interest in improving pre-trained models. This article presents a comprehensive review of representative work and recent progress in the NLP field and introduces the taxonomy of pre-trained models. We first give a brief introduction of pre-trained models, followed by characteristic methods and frameworks. We then introduce and analyze the impact and challenges of pre-trained models and their downstream applications. Finally, we briefly conclude and address future research directions in this field.
+ER  - 
+
+TY  - JOUR
+T1  - Use of ChatGPT: What does it mean for biology and environmental science?
+AU  - Agathokleous, Evgenios
+AU  - Saitanis, Costas J.
+AU  - Fang, Chao
+AU  - Yu, Zhen
+JO  - Science of The Total Environment
+VL  - 888
+SP  - 164154
+PY  - 2023
+DA  - 2023/08/25/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2023.164154
+UR  - https://www.sciencedirect.com/science/article/pii/S0048969723027754
+KW  - Artificial intelligence
+KW  - ChatGPT
+KW  - Biology
+KW  - Environmental science
+KW  - Generative Pre-trained Transformer
+KW  - Large language model
+AB  - Artificial intelligence (AI) large language models (LLMs) have emerged as important technologies. Recently, ChatGPT (Generative Pre-trained Transformer) has been released and attracted massive interest from the public, owing to its unique capabilities to simplify many daily tasks of people from diverse backgrounds and social statuses. Here, we discuss how ChatGPT (and similar AI technologies) can impact biology and environmental science, providing examples obtained through interactive sessions with ChatGPT. The benefits that ChatGPT offers are ample and can impact many aspects of biology and environmental science, including education, research, scientific publishing, outreach, and societal translation. Among others, ChatGPT can simplify and expedite highly complex and challenging tasks. As an example to illustrate this, we provide 100 important questions for biology and 100 important questions for environmental science. Although ChatGPT offers a plethora of benefits, there are several risks and potential harms associated with its use, which we analyze herein. Awareness of risks and potential harms should be raised. However, understanding and overcoming the current limitations could lead these recent technological advances to push biology and environmental science to their limits.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence in precision mRNA therapeutics: Towards genomic language models and multi-agent virtual humans
+AU  - Tan, Tingting
+AU  - Diao, Yizhu
+AU  - Yu, Xueyao
+AU  - Chen, Liye
+AU  - Fang, Hai
+JO  - Acta Pharmaceutica Sinica B
+PY  - 2026
+DA  - 2026/01/03/
+SN  - 2211-3835
+DO  - https://doi.org/10.1016/j.apsb.2025.12.044
+UR  - https://www.sciencedirect.com/science/article/pii/S2211383525008536
+KW  - Artificial intelligence
+KW  - mRNA therapeutics
+KW  - Nucleic acid vaccines
+KW  - Precision medicine
+KW  - Neoantigen discovery
+KW  - Sequence optimisation
+KW  - Lipid nanoparticles
+KW  - Drug delivery systems
+AB  - The success of COVID-19 vaccines has validated mRNA as a versatile therapeutic platform, whose expanding clinical spectrum covers immunotherapeutics for oncology (targeting oncogenes and tumour suppressor genes), autoimmunity, and infectious diseases, as well as non-immunotherapeutic applications. However, challenges in stability, delivery efficiency, and immunogenicity persist. This Review outlines how emerging RNA architectures—self-amplifying (saRNA), circular (circRNA), and trans-amplifying (taRNA)—address conventional mRNA limitations via structural engineering, while articulating the pivotal role of artificial intelligence (AI) in overcoming these hurdles across the entire mRNA drug development pipeline. We explore how AI is revolutionising key areas, such as multi-omics-guided neoantigen discovery, coding sequence and untranslated region optimisation, rational lipid nanoparticle design, and in vivo pharmacological prediction. Looking ahead, we highlight AI agents powered by genomic language models and multi-agent virtual humans (including our proposed PimRNAgent framework) that promise to automate iterative design-validation cycles and facilitate personalised mRNA therapeutics. Ultimately, the convergence of AI with next-generation mRNA platforms is paving the way for a new era of clinically actionable, precision-based mRNA therapeutics.
+ER  - 
+
+TY  - JOUR
+T1  - Implicit coordination in sellers’ inflation: How cost shocks facilitate price hikes
+AU  - Weber, Isabella M.
+AU  - Wasner, Evan
+AU  - Lang, Markus
+AU  - Braun, Benjamin
+AU  - van ’t Klooster, Jens
+JO  - Structural Change and Economic Dynamics
+VL  - 74
+SP  - 690
+EP  - 712
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0954-349X
+DO  - https://doi.org/10.1016/j.strueco.2025.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0954349X25000591
+KW  - Inflation
+KW  - Profits
+KW  - Price coordination
+KW  - Sentiment analysis
+KW  - Earnings calls
+AB  - Supply shocks are now widely recognized as a driver of the recent inflation bout, but the role of firms’ pricing strategies in propagating input cost shocks remains contested. In this paper, we review the state of the academic debate over sellers’ inflation and assess whether, in line with this theory, economy-wide cost shocks have functioned as an implicit coordination mechanism for firms to hike prices. We use a dataset containing 138,962 corporate earnings call transcripts of 4,823 stock-market listed U.S. corporations from the period 2007-Q1 to 2022-Q2 to conduct sentiment analysis via both dictionary-based natural language processing and a large language model approach. We find that large input price shocks (as well as their co-occurrence with supply constraints) correlate with positive sentiments expressed in executives’ statements about cost increases. Qualitative analysis provides further insights into the reasoning behind executives’ optimism regarding their ability to turn an economy-wide cost shock into an opportunity to raise prices and protect or even increase profits.
+ER  - 
+
+TY  - JOUR
+T1  - Hallucination Alleviation-based smart decision for early soybean cultivation in greenhouse and field scenarios
+AU  - Zhang, Chuankun
+AU  - Jiang, Dan
+AU  - Wan, Tianyu
+AU  - Rao, Yuan
+AU  - Jin, Xiu
+AU  - Wang, Tan
+AU  - Wang, Xiaobo
+AU  - Li, Jiajia
+AU  - Zhang, Wu
+AU  - Shao, Xing
+JO  - Computers and Electronics in Agriculture
+VL  - 238
+SP  - 110811
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2025.110811
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925009172
+KW  - MLLMs
+KW  - Hallucination alleviation
+KW  - Prompt engineering
+KW  - Smart decision
+KW  - Soybean growth
+AB  - The selection of optimal cultivation techniques at different growth stages of crops has a significant influence on the monitoring of plant growth and the potential for yield stability. The advent of Multimodal Large Language Models (MLLMs) presents a promising avenue for the formulation of beneficial cultivation decisions. However, the pervasive issue of hallucination within MLLMs represents a substantial obstacle to their application in agricultural scenarios. Particularly in the context of smart soybean cultivation, the effectiveness of the prompt may significantly influence the occurrence of hallucinations, which could lead to inappropriate or even detrimental agricultural practices. In this paper, we propose an innovative method of multimodal prompt fine-tuning, which comprises both text and visual prompts, with the aim of offering one practical solution to the issue of MLLMs’ hallucinations while avoiding the need for high training costs of MLLMs. Specifically, the context-aware prompt is presented as an effective way of refining the relevance of the generated agricultural content. This is accomplished through the establishment of contextual keywords relevant to soybean cultivation, the formulation of detailed queries about these concepts, the validation of responses with visual knowledge for self-criticism mechanisms, the inclusion of in-context examples, and in-context learning. Additionally, the proposed method introduces one multimodal collaboration strategy, which provides soybean localization and contour information at early growth stages for facilitating fine-grained analysis. Extensive experimental results demonstrate that the proposed multimodal prompt fine-tuning method significantly alleviates hallucinations in MLLMs. Compared with the text-only prompt baseline, the proposed method reduces the hallucination rates by 54.17%, thus enabling open-source models to match comparable performance to closed-source models in soybean cultivation decision-making in terms of hydroponics, weed control, and pest management during early soybean growth stages. Therefore, it can be concluded that the proposed method offers a promising solution for alleviating hallucination in practical agricultural applications while reducing the computational burden required for MLLMs to generate appropriate crop cultivation recommendations.
+ER  - 
+
+TY  - JOUR
+T1  - A Review of AI-Driven Automation Technologies: Latest Taxonomies, Existing Challenges, and Future Prospects
+AU  - Jin, Weiqiang
+AU  - Wang, Ningwei
+AU  - Zhang, Lei
+AU  - Tian, Xingwu
+AU  - Shi, Bohang
+AU  - Zhao, Biao
+JO  - Computers, Materials and Continua
+VL  - 84
+IS  - 3
+SP  - 3961
+EP  - 4018
+PY  - 2025
+DA  - 2025/07/30/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2025.067857
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221825007416
+KW  - AI-driven automation techniques and systems
+KW  - artificial general intelligence (AGI)
+KW  - LLMs
+KW  - robotic process automation (RPA)
+AB  - With the growing adoption of Artifical Intelligence (AI), AI-driven autonomous techniques and automation systems have seen widespread applications, become pivotal in enhancing operational efficiency and task automation across various aspects of human living. Over the past decade, AI-driven automation has advanced from simple rule-based systems to sophisticated multi-agent hybrid architectures. These technologies not only increase productivity but also enable more scalable and adaptable solutions, proving particularly beneficial in industries such as healthcare, finance, and customer service. However, the absence of a unified review for categorization, benchmarking, and ethical risk assessment hinders the AI-driven automation progress. To bridge this gap, in this survey, we present a comprehensive taxonomy of AI-driven automation methods and analyze recent advancements. We present a comparative analysis of performance metrics between production environments and industrial applications, along with an examination of cutting-edge developments. Specifically, we present a comparative analysis of the performance across various aspects in different industries, offering valuable insights for researchers to select the most suitable approaches for specific applications. Additionally, we also review multiple existing mainstream AI-driven automation applications in detail, highlighting their strengths and limitations. Finally, we outline open research challenges and suggest future directions to address the challenges of AI adoption while maximizing its potential in real-world AI-driven automation applications.
+ER  - 
+
+TY  - CHAP
+T1  - 3 - Pretrained, adapted, and multimodal foundation models for smarter eco-cities: A geospatial, language, vision, and timeseries approach to urban-environmental intelligence
+AU  - Bibri, Simon Elias
+BT  - The Next Frontiers of Quantum Generative Intelligence for Smarter Eco-Cities
+PB  - Elsevier
+SP  - 183
+EP  - 273
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-52665-7
+DO  - https://doi.org/10.1016/B978-0-443-52665-7.00011-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443526657000112
+KW  - Deep generative models
+KW  - Environmental sustainability
+KW  - Foundation models
+KW  - Geospatial foundation models
+KW  - Large language models
+KW  - Multimodal foundation models
+KW  - Pretrained foundation models
+KW  - Smarter eco-cities
+KW  - Urban–environmental intelligence
+KW  - Vision foundation models
+AB  - The increasing scale, heterogeneity, and multimodality of urban–environmental data have exposed the limitations of task-specific and domain-bounded modeling approaches. Generative AI, particularly Deep Generative Models (DGMs) and Foundation Models (FMs), offers significant opportunities to advance complex urban–environmental systems. While prior research has examined DGMs and their hybrid and mixed variants, the integration and application of pretrained, adapted, and multimodal FMs in urban–environmental intelligence remain underexplored. Moreover, urban and environmental FMs are often studied as separate strands, providing little synthesis of their architectural convergence, underlying model classes, cross-domain interoperability, multimodal fusion strategies, or capacity to represent coupled urban–ecological dynamics in smarter eco-cities. This study addresses this gap by positioning key FM categories as integrative and system-level enablers of next-generation urban–environmental intelligence for smarter eco-cities. It synthesizes the theoretical, architectural, functional, and practical dimensions of geospatial, language, vision, and timeseries FMs and their multimodal subsets, as well as examines how they extend the capacities of DGMs and their hybrid and mixed variants. In doing so, it establishes a coherent framework for scalable, adaptive, and multimodal intelligence capable of addressing the growing complexity of urban ecological sustainability challenges. The synthesis demonstrates that FMs enable large-scale pretrained knowledge representations that support transfer learning, rapid adaptation, and holistic reasoning across geospatial, textual, visual, and semantic domains. Multimodal and geospatial FMs show strong potential for automated infrastructure mapping, land-use classification, environmental monitoring, and disaster assessment using heterogeneous satellite, aerial, and street-level data. Geospatially grounded language models enhance spatial reasoning, geo-entity understanding, and location-based decision support. Vision FMs achieve state-of-the-art performance in detection, segmentation, and classification tasks, efficiently extracting spatial and environmental patterns from large-scale imagery. Vision–language and multimodal models further improve scene understanding, semantic alignment, and zero-shot and few-shot generalization, strengthening urban sensing, navigation, and environmental monitoring capabilities. Cross-architectural integration with DGMs and hybrid and mixed models enables adaptive, scalable, and context-aware intelligence across urban–environmental tasks, helping to address data scarcity, heterogeneity, and operational complexity. The findings highlight the strategic value of combining FMs with deep generative, hybrid, and mixed architectures to support large-scale, interoperable, evidence-informed decision-making for smarter eco-city development. This synthesis provides actionable guidance for strategic planning, infrastructure management, environmental monitoring, and climate resilience, while advancing the understanding of how FMs can bridge urban dynamics and environmental processes.
+ER  - 
+
+TY  - JOUR
+T1  - FF-BERT: A BERT-based ensemble for automated classification of web-based text on flash flood events
+AU  - Wilkho, Rohan Singh
+AU  - Chang, Shi
+AU  - Gharaibeh, Nasir G.
+JO  - Advanced Engineering Informatics
+VL  - 59
+SP  - 102293
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2023.102293
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034623004214
+KW  - Flash flood
+KW  - Text classification
+KW  - Multi-label text classification
+KW  - BERT
+AB  - The web is a rich information repository that can be mined to uncover additional data about past flash flood (FF) events, currently missing from existing structured databases. However, this information originates from multiple sources (news articles, government records, and weather records among others) and may cover several topics. Furthermore, these topics may be disproportionately covered on the web. The large size and heterogenous nature of web information render manual review difficult. To address this challenge, we have developed a multi-label text classification model, FF-BERT. FF-BERT is designed to classify FF-related web paragraphs into one or more of seven categories: (1) Damage and Economic Impact (DI), (2) Fatalities, Injuries, and Rescue (FIR), (3) Hydrometeorology (HM), (4) Warning and Emergency (WE), (5) Response and Recovery (RR), (6) Public Health (PH), and (7) Mitigation (MG). To develop FF-BERT, we labeled 21,180 paragraphs from FF-related webpages and performed experiments with multiple model architectures based on the widely used language model Bidirectional Encoder Representation from Transformers (BERT). Our final model outperforms the baseline by 11.83%, as measured by the micro-F1 score. In addition, FF-BERT significantly improves the prediction of minority labels (RR-32.1%, PH-260.4%, and MG-138.6%). We demonstrate using real world examples that FF-BERT can be used to uncover new information about flash flood events. This information can be used to enhance existing databases, such as NOAA’s Storm Events Database.
+ER  - 
+
+TY  - JOUR
+T1  - Less stress, better scores, same learning: The dissociation of performance and learning in AI-supported programming education
+AU  - Bassner, Patrick
+AU  - Lenk-Ostendorf, Ben
+AU  - Beinstingel, Ramona
+AU  - Wasner, Tobias
+AU  - Krusche, Stephan
+JO  - Computers and Education: Artificial Intelligence
+VL  - 10
+SP  - 100537
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2666-920X
+DO  - https://doi.org/10.1016/j.caeai.2025.100537
+UR  - https://www.sciencedirect.com/science/article/pii/S2666920X25001778
+KW  - Artificial intelligence
+KW  - Educational technology
+KW  - Cognitive load theory
+KW  - Scaffolded learning
+KW  - Large language models
+KW  - Student motivation
+AB  - Introduction
+Generative AI is reshaping programming education, yet its effects on conceptual learning, intrinsic motivation, and cognitive load remain unclear. This study tests whether assistance deepens understanding or primarily boosts task completion, and how scaffolded versus answer-giving designs matter.
+Objectives
+This study compares performance, learning, cognitive load, frustration, and motivation across three AI support types, and examines students’ perceptions.
+Methods
+A three-arm randomized controlled trial was conducted in an introductory programming (CS1) course at TUM (N=275). Participants completed a 90-minute exercise on concurrency, implementing a parallel sum with threading in one of three conditions: (1) Iris, a scaffolded tutor providing calibrated hints while withholding full solutions; (2) ChatGPT, unrestricted assistance that can provide complete solutions; (3) no-AI control using traditional web resources. Pre- and post-knowledge tests and a code comprehension task measured learning, while auto-graded test coverage measured performance. Validated scales captured intrinsic, germane, and extraneous cognitive load, frustration, and intrinsic motivation.
+Results
+Both AI groups achieved substantially higher exercise scores than the control group, with distinct distributions: ChatGPT users clustered at high scores, control participants at low scores, and Iris users spread across the full range. Despite these performance gains, neither AI condition produced greater pre–post knowledge gains or code-comprehension advantages. Both AI groups reported lower frustration and reduced extraneous and germane load than the control group, while intrinsic load did not differ. Only Iris increased intrinsic motivation. Students rated ChatGPT as easier to use and more helpful.
+Conclusion
+In this setting, generative AI acted primarily as a performance aid rather than a learning enhancer. Scaffolded, hint-first design preserved motivational benefits, whereas AI providing unrestricted solutions encouraged a “comfort trap” where students’ preferences misaligned with pedagogical effectiveness. These findings motivate scaffolded AI integration and assessment designs resilient to environments where performance no longer reliably tracks understanding.
+ER  - 
+
+TY  - JOUR
+T1  - Natural language processing and computational linguistics for Vietnamese: A comprehensive review
+AU  - Tran, Khiem Vinh
+AU  - Thai, Triet Minh
+AU  - Luu, Son T.
+AU  - Nguyen, Kiet Van
+AU  - Nguyen, Ngan Luu Thuy
+JO  - Expert Systems with Applications
+VL  - 327
+SP  - 132696
+PY  - 2026
+DA  - 2026/09/25/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2026.132696
+UR  - https://www.sciencedirect.com/science/article/pii/S095741742601609X
+KW  - Datasets
+KW  - Low-resource languages
+KW  - Language technology
+KW  - Pre-trained language models
+AB  - The success of modern Natural Language Processing (NLP), underpinned by large-scale Transformer architectures, is contingent upon access to extensive benchmark datasets. This dependence has intensified the resource disparity between a handful of high-resource languages and others, such as Vietnamese, where data scarcity poses a significant barrier to scientific and technological progress. To address this, we present the most extensive unified survey of Vietnamese NLP to date, distinguishing itself from prior task-specific overviews by simultaneously synthesizing 68 publicly available datasets, a complete architectural evolution from statistical to generative models, modern LLM benchmarks (VLUE, VMLU), and a structured linguistic challenge analysis within a single, consolidated reference. Each dataset is evaluated with respect to size, domain, annotation scheme, and accessibility. Beyond the dataset review, we synthesize the current state of Vietnamese NLP by examining 21 prominent modeling techniques from neural representations to Transformer-based architectures while benchmarking their empirical performance. Our analysis reveals critical gaps in available resources, particularly in under-represented domains and task categories, and identifies methodological challenges distinctive to Vietnamese, including word segmentation and syntactic ambiguity. In response, we propose a targeted roadmap with actionable recommendations for dataset creation, model innovation, and evaluation strategies. This survey aims to catalyze robust, reproducible research in Vietnamese, contributing to greater inclusivity within the global NLP community.
+ER  - 
+
+TY  - JOUR
+T1  - Microservice logs analysis employing AI: A systematic literature review
+AU  - Arfan Uddin, Md
+AU  - Weerasinghe, Shakthi
+AU  - Gajewski, Darek
+AU  - Akbarsharifi, Melika
+AU  - Akbarsharifi, Roxana
+AU  - Stoner, Christopher
+AU  - Cerny, Tomas
+AU  - He, Sen
+JO  - Journal of Systems and Software
+VL  - 236
+SP  - 112786
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.112786
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226000208
+KW  - Systematic literature review
+KW  - Microservices
+KW  - Log analysis
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Large language models
+AB  - Background: Microservice architectures generate massive volumes of fragmented log data. While complicating unified monitoring and diagnosis, traditional approaches are typically overwhelmed, leading to delayed incident detection and costly system failures. Artificial Intelligence (AI) techniques, particularly machine learning and large language models, have emerged as promising solutions for automating log analysis and addressing these operational challenges. Objective: The objective of this study is to systematically review and synthesize existing research on AI techniques for microservice log analysis, evaluating their enterprise deployment readiness and identifying current capabilities, limitations, and priority areas for future investigation. Method: We conducted a systematic literature review of 2208 papers from peer-reviewed academic literature, published between 2018 and 2025. Through a rigorous filtering process, we identified 82 primary studies that thoroughly examine the use of AI for microservice log analysis across tools, techniques, datasets, and challenges. Results: While AI techniques are frequently applied to anomaly detection and root cause analysis, this review reveals a critical disconnect between research advances and industry needs. 65 studies rely on synthetic or private datasets that poorly reflect production complexities. Approximately two-thirds (65.85%) of papers adopt standardized evaluation benchmarks, with 59.76% using the standard Precision-Recall-F1 classification metrics. Hence, unresolved scalability, generalizability, and data accessibility remain the key challenges that prevent widespread adoption of AI-based microservice log analysis in enterprise environments. Conclusion: AI has strong potential for advancing log analysis in microservices. Future research should prioritize open datasets, robust benchmarking, and the use of these AI methods for deeper contextual understanding such as understanding why anomalies propagate across services and how they may impact business operations.
+ER  - 
+
+TY  - JOUR
+T1  - Revolutionizing optical networks: The integration and impact of large language models
+AU  - Cruzes, Sergio
+JO  - Optical Switching and Networking
+VL  - 57
+SP  - 100812
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 1573-4277
+DO  - https://doi.org/10.1016/j.osn.2025.100812
+UR  - https://www.sciencedirect.com/science/article/pii/S1573427725000190
+KW  - Optical networks
+KW  - Network automation
+KW  - Large language models
+KW  - Digital twins
+AB  - The increasing complexity and scale of optical networks demand advanced automation frameworks capable of adapting to dynamic service requirements, physical-layer impairments, and multi-vendor environments. Traditional solutions—based on static rule sets or narrowly scoped machine learning models—struggle to manage real-time performance, heterogeneous data, and domain-specific variability. Large Language Models (LLMs), built on transformer architectures, offer a paradigm shift by enabling context-aware reasoning, multi-task generalization, and natural language interpretation. These models can automate configuration generation, fault diagnosis, alarm correlation, and routing and spectrum assignment (RSA), while enhancing Quality of Transmission (QoT) estimation and scenario modeling. This article provides a comprehensive survey of current automation approaches in optical networks, including software-defined networking (SDN), intent-based networking (IBN), machine learning (ML)-based orchestration, and cognitive control architectures. Special attention is given to emerging paradigms that integrate LLMs for intent interpretation, fault analysis, configuration generation, and reasoning. Building on these foundations, we propose a hybrid framework that integrates LLMs with Digital Twin (DT) technologies to enable closed-loop control, predictive optimization, and explainable, intent-driven decision-making. Telemetry streams feed both DT simulations and LLM-based reasoning agents, supporting proactive reconfiguration and fault mitigation. To address LLM limitations—such as hallucinations and inference latency —the framework incorporates prompt engineering, retrieval-augmented generation (RAG), domain-specific fine-tuning, and simulation-based validation. The proposed architecture paves the way for resilient, autonomous, and sustainable optical networks that can self-optimize and adapt in real time.
+ER  - 
+
+TY  - JOUR
+T1  - Pre-trained models: Past, present and future
+AU  - Han, Xu
+AU  - Zhang, Zhengyan
+AU  - Ding, Ning
+AU  - Gu, Yuxian
+AU  - Liu, Xiao
+AU  - Huo, Yuqi
+AU  - Qiu, Jiezhong
+AU  - Yao, Yuan
+AU  - Zhang, Ao
+AU  - Zhang, Liang
+AU  - Han, Wentao
+AU  - Huang, Minlie
+AU  - Jin, Qin
+AU  - Lan, Yanyan
+AU  - Liu, Yang
+AU  - Liu, Zhiyuan
+AU  - Lu, Zhiwu
+AU  - Qiu, Xipeng
+AU  - Song, Ruihua
+AU  - Tang, Jie
+AU  - Wen, Ji-Rong
+AU  - Yuan, Jinhui
+AU  - Zhao, Wayne Xin
+AU  - Zhu, Jun
+JO  - AI Open
+VL  - 2
+SP  - 225
+EP  - 250
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 2666-6510
+DO  - https://doi.org/10.1016/j.aiopen.2021.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2666651021000231
+KW  - Pre-trained models
+KW  - Language models
+KW  - Transfer learning
+KW  - Self-supervised learning
+KW  - Natural language processing
+KW  - Multimodal processing
+KW  - Artificial intelligence
+AB  - Large-scale pre-trained models (PTMs) such as BERT and GPT have recently achieved great success and become a milestone in the field of artificial intelligence (AI). Owing to sophisticated pre-training objectives and huge model parameters, large-scale PTMs can effectively capture knowledge from massive labeled and unlabeled data. By storing knowledge into huge parameters and fine-tuning on specific tasks, the rich knowledge implicitly encoded in huge parameters can benefit a variety of downstream tasks, which has been extensively demonstrated via experimental verification and empirical analysis. It is now the consensus of the AI community to adopt PTMs as backbone for downstream tasks rather than learning models from scratch. In this paper, we take a deep look into the history of pre-training, especially its special relation with transfer learning and self-supervised learning, to reveal the crucial position of PTMs in the AI development spectrum. Further, we comprehensively review the latest breakthroughs of PTMs. These breakthroughs are driven by the surge of computational power and the increasing availability of data, towards four important directions: designing effective architectures, utilizing rich contexts, improving computational efficiency, and conducting interpretation and theoretical analysis. Finally, we discuss a series of open problems and research directions of PTMs, and hope our view can inspire and advance the future study of PTMs.
+ER  - 
+
+TY  - JOUR
+T1  - RaSA-BoDX: A meta-cognitive reasoning framework for cyberbullying language detection and mitigation using multi-agent systems
+AU  - Nadeem, Muhammad
+AU  - Hongsong, Chen
+JO  - Knowledge-Based Systems
+VL  - 339
+SP  - 115639
+PY  - 2026
+DA  - 2026/04/22/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2026.115639
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705126003795
+KW  - Knowledge-driven reasoning systems
+KW  - Cognitive reasoning and decision-making
+KW  - Multi-agent intelligent systems
+KW  - Semantic and pragmatic knowledge modeling
+KW  - Context-aware language understanding
+KW  - Cyberbullying detection and mitigation
+AB  - Modern toxic communication increasingly manifests through implicit aggression, sarcasm-laden discourse, contextual insults, and cognitively masked hostility, rendering traditional keyword-centric and surface-level detection paradigms inadequate for reliable interpretation and effective intervention. Although recent advances in artificial intelligence and generative language models have improved detection capabilities, existing approaches remain fragmented and lack a unified, knowledge-driven reasoning architecture capable of jointly modeling semantic meaning, pragmatic intent, and cognitive context while performing detection and mitigation within a single end-to-end framework. To address this limitation, we propose RaSA-BoDX, a novel multi-layer, meta-cognitive, and agentic reasoning framework that formulates cyberbullying analysis as a knowledge-constrained reasoning problem rather than a purely statistical classification task. RaSA-BoDX integrates tone-intent grounding, sarcasm and ambiguity reasoning, emotional anchoring, and multi-turn conversational modeling into a dynamic cognitive analysis pipeline. The framework employs CrewAI-orchestrated multi-agent collaboration, Model Context Protocol (MCP)-based knowledge validation, cognitive contradiction reasoning, and multi-LLM swarm consensus to enable adaptive, explainable, and context-aware decision-making. A key contribution of RaSA-BoDX is its meaning-fidelity-preserving mitigation mechanism, which reconceptualizes mitigation as a cognitively constrained transformation instead of superficial paraphrasing. This mechanism ensures the preservation of original communicative intent, emotional coherence, and pragmatic context through EmoShift anchoring, iterative chain-of-thought stabilization, semantic consistency locking, and dual-agent verification. Experimental results across multiple benchmark datasets demonstrate that RaSA-BoDX achieves robust detection performance while delivering reliable, context-preserving mitigation under adversarial and ambiguous conditions. To the best of our knowledge, this work represents the first knowledge-driven, cognitive-level, multi-agent, multi-LLM framework that unifies cyberbullying detection and mitigation through explicit reasoning processes, establishing a new paradigm for intelligent, robust, and human-aligned cyber safety systems.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 6 - Large language model-based personalized recommendations in health
+AU  - Galitsky, Boris
+BT  - Healthcare Applications of Neuro-Symbolic Artificial Intelligence
+PB  - Academic Press
+SP  - 167
+EP  - 220
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 978-0-443-30046-2
+DO  - https://doi.org/10.1016/B978-0-443-30046-2.00008-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443300462000089
+KW  - Large language models
+KW  - personalization
+KW  - recommendation
+KW  - metaprompts
+KW  - abductive reasoning
+AB  - Today, large language models (LLMs) are not good at personalization providing recommendation. They advise physicians and financial advisors to ask professionals in respective fields for help, even having user information available. Answering questions of software professionals, LLM needs to deliver in-depth answers with codes or algorithms, whereas for professionals in other fields would need definitions and main concepts. The intent of this chapter is to make LLM answers tailored to the needs of users, taking into account available information about them. To do that, we need to generalize available information about a person like her health record, maintaining the privacy of this person. We rely on metalearning techniques to design an LLM prompt to produce a personalization prompt to obtain suitable relevant information. Such “metaprompt” is produced by generalization operation applied to available documents for the user. These documents need to be de-identified so that they are sufficient for personalization on one hand and will maintain user privacy on the other hand. The second neuro-symbolic technique to support personalization is abductive reasoning, acting in parallel to LLM fine-tuning. Traditional recommendation and personalization techniques as well as modern, deep learning—based are presented, and the comparison is drawn to the proposed approach. We also share the evaluation and comparative analyses of these approaches. We consider an example for how to build personalization LLM systems coming from the Langchain platform. We will explore how to construct chains to form a personalization profile for a user and apply it to user search and recommendation requests. https://github.com/bgalitsky/LLM-personalization.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence in biologic drug discovery: A review of methodological evolution and therapeutic applications
+AU  - Tang, Jianxin
+AU  - Gong, Daohong
+AU  - Li, Honglin
+AU  - Li, Shiliang
+JO  - Acta Pharmaceutica Sinica B
+VL  - 16
+IS  - 7
+SP  - 3996
+EP  - 4023
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 2211-3835
+DO  - https://doi.org/10.1016/j.apsb.2026.01.039
+UR  - https://www.sciencedirect.com/science/article/pii/S2211383526000778
+KW  - Artificial intelligence
+KW  - Biologic drugs
+KW  -  design
+KW  - Drug optimization
+KW  - Drug delivery system
+KW  - Nucleic acid therapeutics
+KW  - Machine learning
+KW  - Generative models
+AB  - Biologic drugs, primarily comprising proteins and nucleic acids, have emerged as powerful therapeutic modalities; however, their discovery and optimization are often hindered by their inherent complexity. The advent of artificial intelligence (AI), particularly deep learning, is catalyzing a paradigm shift in this field, transitioning it from a process reliant on serendipity and laborious experimentation to a data-driven engineering discipline. This review systematically charts the co-evolution of AI methodologies and their transformative applications across the modern biologic drug development pipeline. We first outline AI’s methodological progression, from language models deciphering biological sequence grammar to structure prediction models like AlphaFold making macromolecular folds computationally accessible, and finally to generative models enabling de novo molecular creation. We then explore the practical impact of these technologies in two core phases: the de novo design of novel biologics with bespoke functions and the subsequent multi-parameter engineering and optimization of these candidates for clinical viability. While the potential is immense, significant strategic challenges remain, including the need to build a new AI-native experimental ecosystem and bridge the profound complexity gap between molecular-level predictions and systemic in vivo outcomes. Overcoming these obstacles will usher in a new era of AI-driven, automated closed-loop drug discovery.
+ER  - 

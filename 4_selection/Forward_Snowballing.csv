@@ -1,0 +1,26 @@
+Cand_ID,Title,Year,Identifier,Core studies cited,Decision,Reason
+FS01,EviRepair,2026,arXiv:2610.13491,VulRepair; PatchAgent; SEC-bench; PATCHEVAL; Pearce,Include,All IC; preprint QA 7
+FS02,Root-Cause-Driven AVR (Kumushi),2026,arXiv:2605.04251,APPATCH; PatchAgent; SEC-bench; Pearce,Include,All IC; preprint QA 7
+FS03,MemRepair,2026,arXiv:2605.17444,SEC-bench; PATCHEVAL; Pearce,Include,All IC; preprint QA 7
+FS04,PatchIsland,2026,arXiv:2601.17471,CodeRover-S; SAN2PATCH; APPATCH; Pearce,Include,All IC; preprint QA 7
+FS05,ContraFix,2026,arXiv:2605.17450,SEC-bench; PATCHEVAL; PatchAgent; VulRepair; Pearce,Include,All IC; preprint QA 7
+FS06,On the Reliability of LLM-Based Vulnerability Patching Benchmarks,2026,arXiv:2610.10150,SEC-bench; PatchAgent,Include,All IC; preprint QA 5
+FS07,Detect-Repair-Verify for LLM-Generated Code,2026,arXiv:2603.23633,Pearce; VRpilot,Include,All IC; preprint QA 5
+FS08,AgenticRepair,2026,arXiv:2607.29422,VulRepair; SEC-bench,Include,All IC; preprint QA 7
+FS09,Agent That Debugs (VulDebugger),2025,arXiv:2504.07634,VulRepair; Pearce,Include,All IC; preprint QA 5
+FS10,TLR: Codebase-Level C Memory Management Error Repair,2026,10.1145/3797085,SAN2PATCH; VulRepair; PatchAgent,Include,All IC; peer-reviewed (FSE 2026)
+FX01,Detect Repair Verify for Securing LLM Generated Code (earlier version),2026,arXiv:2603.00897,Pearce; VRpilot,Exclude,EC10 (superseded by FS07)
+FX02,Repairing vulnerabilities without invisible hands (v2),2026,arXiv:2507.20977v2,Wu ISSTA 2023; Reality Check; VRpilot,Exclude,"IC4 (study plan, no results)"
+FX03,Helpful or Harmful? LLM-Assisted Vulnerability Patching via a Human Study,2026,arXiv:2606.25973,-,Exclude,IC4 (study plan with pilot only)
+FX04,Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities,2025,arXiv:2511.23408,-,Exclude,EC9 (extended version of a poster paper)
+FX05,Not All Input Helps: What Information Should We Feed to LLMs for Vulnerability Repair,2026,ICSE 2026 NIER,-,Exclude,EC9 (new-ideas track)
+FX06,Does Fixing Break Security? Iterative LLM-Driven IaC Repair,2026,LIPIcs.ESEM.2026.50,-,Exclude,EC4 (generation from natural-language prompts)
+FX07,Metrics Failure in LLM-Based Code Vulnerability Repair,2026,arXiv:2609.26749,-,Exclude,Full text not assessed; doubt rule
+FX08,Security in a Workflow: Role-Based Agentic Architectures for Vulnerability Handling,2026,arXiv:2606.14261,CVE-Bench (identity with S22 unconfirmed),Exclude,Citation of a core study not confirmed
+FX09,EVMbench,2026,arXiv:2603.04915,None found,Exclude,Does not cite a core study
+FX10,ExpeRepair,2026,10.1145/3808181,-,Exclude,EC3 (general repository-level repair)
+FX11,Are AI-Generated Fixes Secure? LLM and Agent Patches on SWE-bench,2025,arXiv:2507.02976,-,Exclude,EC3/EC1 (security analysis of general patches)
+FX12,Defects4C,2025,arXiv:2510.11059,-,Exclude,EC3 (general C/C++ repair benchmark)
+FX13,LLM Agentic Workflow for Vulnerability Detection and Remediation in IaC,2025,10.1109/ACCESS.2025.3560911,unconfirmed,Exclude,Full text not retrieved; doubt rule
+FX14,LLMs for Infrastructure as Code Vulnerability Remediation (WISP),2025,aisel wisp2025/1,unconfirmed,Exclude,Full text not retrieved; doubt rule
+FX15,Off-by-1 Labs FLAWED report (1Password),2026,industry report,-,Exclude,IC5 (grey literature)

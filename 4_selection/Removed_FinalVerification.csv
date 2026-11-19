@@ -1,0 +1,4 @@
+Record_ID,Title,Venue and identifier,Criterion,Reason
+REC_00645,ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts,ASE 2024 Tool Demonstrations track; 10.1145/3691620.3695349,EC9,Four-page tool-demonstration paper
+REC_00710,SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph,"FSE 2026 Ideas, Visions and Reflections track; arXiv:2604.00687",EC9,"Short ideas-track paper, treated like NIER (same treatment as REC_00829)"
+REC_00795,Applying generative artificial intelligence for vulnerability fixing in a proprietary software ecosystem,Journal of Systems and Software; 10.1016/j.jss.2025.112723,EC11 (IC3),The model used is not named in any accessible text

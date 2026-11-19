@@ -1,0 +1,92 @@
+SID,Study,Field,Before final verification,After final verification
+S4,Zhang et al. (TDSC 2023),Access,B,O
+S4,Zhang et al. (TDSC 2023),Venue,IEEE Transactions on Dependable and Secure Computing,"IEEE Transactions on Dependable and Secure Computing 21(4), 2507–2525"
+S4,Zhang et al. (TDSC 2023),DOI or identifier,arXiv:2308.12533,10.1109/TDSC.2023.3308897
+S5,CodeRover-S,Models,LLM agent - Not named in QA notes in full text,GPT-4o (gpt-4o-2024-08-06)
+S5,CodeRover-S,Access,NR,P
+S5,CodeRover-S,Venue,"ACM 2026 (published as ""Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz""); arXiv:2411.03346",ICSE-SEIP 2026
+S8,JS repair (ChatGPT/Bard),Venue,WWW 2024 Companion,"WWW 2024 Companion, short paper track, 666–669"
+S11,VSP (CoT prompting),Venue,Preprint [verify venue],arXiv preprint
+S11,VSP (CoT prompting),DOI or identifier,[TO FILL],arXiv:2402.17230
+S12,VulMaster (ICSE 2024),Access,B,O
+S13,ZeroLeak (ESORICS 2024),Access,B,P
+S17,APPATCH,DOI or identifier,[TO FILL],USENIX Security 2025 (no DOI issued); arXiv:2408.13597
+S18,AutoPatch,Venue,Preprint [verify venue],arXiv preprint
+S18,AutoPatch,DOI or identifier,[TO FILL],arXiv:2505.04195
+S20,CloudFix,Models,Not named in QA notes in full text,CodeLlama-7B-Instruct; Granite-3.3-8B-Instruct; DeepSeek-Coder-7B-Instruct; Llama-3.2-3B-Instruct
+S20,CloudFix,Access,NR,O
+S21,CoV-Eval,Venue_Type,Preprint,Conference/workshop
+S21,CoV-Eval,Venue,arXiv preprint,"ACL 2025 (Long Papers), pp. 17349-17369"
+S21,CoV-Eval,DOI or identifier,10.48550/arXiv.2505.10494,10.18653/v1/2025.acl-long.849
+S22,CVE-Bench,DOI or identifier,[TO FILL],10.18653/v1/2025.naacl-long.212
+S23,DotDotDefender,Venue,ACM AsiaCCS 2025,"ACM AsiaCCS 2025, pp. 542-558"
+S23,DotDotDefender,DOI or identifier,10.48550/arXiv.2505.20186,10.1145/3708821.3736220
+S24,ESBMC-AI,Models,LLM (GPT-family per paper) - Not named in QA notes in full text,GPT-3.5 (gpt-3.5-turbo)
+S24,ESBMC-AI,Access,P?,P
+S26,Gong et al. (secure code agents),DOI or identifier,[TO FILL],arXiv:2408.10495
+S28,LLM4CVE,Venue_Type,Preprint,Conference/workshop
+S28,LLM4CVE,Venue,arXiv preprint (DSD 2025 version to confirm),"DSD 2025 (IEEE), 592–599"
+S29,LLMPort (ASE 2025),Access,B,P
+S31,Multi-dataset AVR,Venue_Type,Preprint,Conference/workshop
+S31,Multi-dataset AVR,Venue,arXiv preprint,"ARES 2025 Workshops (AI&CCPS), LNCS 15994, pp. 73-87"
+S32,Multilingual AVR evaluation,Venue,[verify venue],ACM TOSEM 35(7)
+S32,Multilingual AVR evaluation,DOI or identifier,10.48550/arXiv.2508.03470,10.1145/3771930
+S33,MUSSEL (ASE 2025),Access,B,O
+S34,Mystique (FSE 2025),Access,B,P
+S35,PatchAgent (USENIX Sec 2025),Access,P,B
+S35,PatchAgent (USENIX Sec 2025),DOI or identifier,[TO FILL],USENIX Security 2025 (no DOI issued)
+S36,PortGPT,Models,Not named in QA notes in full text,GPT-5; GPT-4o; Gemini-2.5-Flash; Llama 3.3 70B; DeepSeek-V3
+S36,PortGPT,Access,NR,B
+S36,PortGPT,Venue_Type,Preprint,Conference/workshop
+S36,PortGPT,Venue,arXiv preprint,IEEE S&P 2026 (accepted; arXiv:2510.22396)
+S37,SAN2PATCH (USENIX Sec 2025),Access,P,B
+S37,SAN2PATCH (USENIX Sec 2025),DOI or identifier,[TO FILL],USENIX Security 2025 (no DOI issued)
+S38,SEC-bench,Models,LLM coding agents - Not named in QA notes in full text,"Claude 3.7 Sonnet; GPT-4o; o3-mini (via SWE-agent, OpenHands, Aider)"
+S38,SEC-bench,Access,NR,P
+S39,SecureFixAgent,Venue_Type,Preprint,Conference/workshop
+S39,SecureFixAgent,Venue,arXiv preprint,IEEE ICMLA 2025 (regular paper; arXiv:2509.16275)
+S42,Vul-R2 (ASE 2025),Access,B,O
+S43,VulDebugger,Access,P,B
+S44,VulnRepairEval,Venue,Preprint,arXiv preprint (arXiv:2509.03331)
+S45,AgenticRepair,Access,P,B
+S46,Backporting benchmark,Models,PortGPT and LLM agents (5 tools) - Not named in QA notes in full text,"GPT-4o (PortGPT, SWE-agent); CodeLlama-13B-Instruct (Mystique); StarCoder (PPatHF)"
+S46,Backporting benchmark,Access,NR,B
+S47,Bulkhead,Models,Not named in QA notes in full text,GPT-5.1; GPT-5.6-Sol
+S47,Bulkhead,Access,NR,P
+S47,Bulkhead,Venue,Preprint [verify venue],arXiv preprint
+S47,Bulkhead,DOI or identifier,[TO FILL],10.48550/arXiv.2607.12723
+S49,CWEFT,Venue_Type,NR,Conference/workshop
+S49,CWEFT,Venue,[verify venue],ESEM 2026
+S49,CWEFT,DOI or identifier,Replication package: 10.5281/zenodo.21672348,10.4230/LIPIcs.ESEM.2026.78
+S52,HMF,Models,Not named in QA notes in full text,GPT-3.5-Turbo; CodeLlama-7B/13B; ChatGLM3-6B
+S52,HMF,Access,NR,B
+S53,Khan et al. (ACM 2026),Venue,ACM proceedings 2026 [verify venue],ACM SAC 2026 (SEC track)
+S54,Kumushi,Access,P,B
+S56,LoopRepair,Models,Not named in QA notes in full text,GPT-4o-mini (main); GPT-3.5-turbo; Claude-3.5-Sonnet; Gemini-1.5-flash; DeepSeek-V3
+S56,LoopRepair,Access,NR,B
+S56,LoopRepair,DOI or identifier,[verify: workbook DOI duplicates S46],10.1145/3744916.3773218
+S57,LRR (ReDoS),DOI or identifier,ACL Anthology 2026.eacl-long.379,10.18653/v1/2026.eacl-long.379
+S58,MemRepair,Access,O,B
+S59,Multi2Fixer,Venue,ASE 2026,"ASE 2026, pp. 2934-2946"
+S59,Multi2Fixer,DOI or identifier,[TO FILL],10.1145/3832783.3837527
+S61,P2Patch,Models,Claude Code and other agents,Claude Haiku 4.5 (Claude Code); GLM 5.2; DeepSeek V4 Flash; GPT-5.6-luna
+S61,P2Patch,Access,P?,B
+S61,P2Patch,DOI or identifier,[TO FILL],10.48550/arXiv.2610.20245
+S62,PATCHEVAL,Venue,Preprint,arXiv preprint (arXiv:2511.11019)
+S63,Patching-benchmark reliability,Access,P,B
+S64,PatchIsland,Access,P,B
+S65,RAVEN,Venue,Preprint [verify venue],arXiv preprint
+S65,RAVEN,DOI or identifier,[TO FILL],arXiv:2606.22647
+S66,Rethinking FT AVR,DOI or identifier,[TO FILL],10.1145/3744916.3773167
+S68,SPVR (NAVRepair),Models,GPT-4 and others full list,GPT-3.5-turbo (0125); DeepSeek-Coder-6.7B-Instruct; Magicoder-S-DS-6.7B
+S68,SPVR (NAVRepair),Access,P?,B
+S68,SPVR (NAVRepair),Venue,Automated Software Engineering [verify],"Automated Software Engineering 33(1), art. 38"
+S68,SPVR (NAVRepair),DOI or identifier,10.48550/arXiv.2405.04994,10.1007/s10515-025-00579-5
+S69,TerraRepair,Models,Not named in QA notes in full text,GPT-4o-mini
+S69,TerraRepair,Access,NR,P
+S70,TLR (FSE 2026),Access,P,B
+S73,VulnResolver,Models,Not named in QA notes in full text,DeepSeek-V3.2-Exp; o3-mini; GPT-4o
+S73,VulnResolver,Access,NR,B
+S73,VulnResolver,Venue,Preprint [verify venue],arXiv preprint
+S73,VulnResolver,DOI or identifier,[TO FILL],10.48550/arXiv.2601.13933
+S75,Zero-touch remediation,Access,P,B

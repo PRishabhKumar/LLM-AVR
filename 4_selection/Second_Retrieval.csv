@@ -1,0 +1,20 @@
+ID in manuscript,Record_ID,Study,Full-text source,Retrieval,Eligibility on full text,Outcome
+S2,REC_00203,Examining Zero-Shot Vulnerability Repair with LLMs,arXiv v3 (open),Full text retrieved,"All IC met, no EC",Moved to core
+R1,REC_00848,BERTVRepair,Springer (paywalled),Not retrieved,-,Remains sensitivity
+S14,REC_00868,LLMs for Real-World Vulnerability Repair in C/C++,NSF PAR (open),Full text retrieved,"All IC met, no EC",Moved to core
+R2,REC_00145,Repairing Infrastructure-as-Code using LLMs,IEEE Xplore (paywalled),Not retrieved,-,Remains sensitivity
+R3,REC_00921,"Reality Check (GPT-4, Vul4J)",ACM (not openly retrievable here),Not retrieved,-,Remains sensitivity
+S12,REC_02161,VulMaster,arXiv 2401.15459 v3 (open),Full text retrieved,"All IC met, no EC",Moved to core
+S13,REC_00900,ZeroLeak,arXiv 2308.13062 (open),Full text retrieved,"All IC met, no EC",Moved to core
+R4,REC_00156,AI-Generated Security Patches (AITest),IEEE Xplore (paywalled),Not retrieved,-,Remains sensitivity
+R5,SB06,FAVOR,IEEE Xplore (paywalled),Not retrieved,-,Remains sensitivity
+R6,REC_00772,PatchLM (IST),Elsevier (paywalled),Not retrieved,-,Remains sensitivity
+R7,REC_00467,PTFix,Springer (paywalled),Not retrieved,-,Remains sensitivity
+R8,REC_00097,CodeLlama QLoRA + RAG (ICNCCom),IEEE Xplore (paywalled),Not retrieved,-,Remains sensitivity
+R9,REC_02175,Fine-tuned LLM + VSCode auditing (BCRA),Elsevier (not retrievable here),Not retrieved,-,Remains sensitivity
+R10,REC_02207,"Found, but Not Fixed (Micpro)",Elsevier (paywalled),Not retrieved,-,Remains sensitivity
+R11,REC_00560,Java LLM repair comparison (ASE journal),Springer (paywalled),Not retrieved,-,Remains sensitivity
+S53,REC_00559,Multi-Language Vulnerability Patching with PTMs,arXiv 2501.07339 (open),Full text retrieved,"All IC met, no EC",Moved to core
+R12,REC_00121,Open-weight LLMs for security backporting (IBI),IEEE Xplore (paywalled),Not retrieved,-,Remains sensitivity
+R13,REC_00600,SecureFlow (JCP),MDPI (article page not located),Not retrieved,-,Remains sensitivity
+S75,REC_00635,Zero-Touch Vulnerability Remediation Framework,MDPI (open),Full text retrieved,"All IC met, no EC",Moved to core

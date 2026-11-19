@@ -1,0 +1,38 @@
+Extraction codebook (applied to all 75 core studies),,
+"Unreported information is coded NR (not reported), never No. Multi-valued fields are counted per study. Full field list and coding rules: Supplementary Material S1, section S1.7.",,
+Field,Definition,Allowed values
+Contribution,Primary contribution type,Technique | Empirical | Benchmark/Empirical | Technique (industrial)
+Target,Artefact being repaired,Source code | Source code (LLM-generated) | Smart contract | Configuration (K8s/IaC/IAM) | Patch backporting/porting | Firmware | Regular expressions
+Access,Model access across all evaluated LLMs,P = proprietary only | O = open-weight only | B = both | NR
+Adaptation,How the LLM is adapted (multi-valued),Zero/few-shot; CoT; RAG; Fine-tuning (incl. LoRA/QLoRA); RL; Iterative feedback; Agentic
+Archetype,Single primary design pattern (rules below),"T1-T5, E"
+Scope,Unit of the generated patch,Line/hunk | Function | File | Multi-file/multi-hunk | Repository
+Tools,External tools integrated in generation or validation,Free text
+Validation,All validation mechanisms applied to generated patches (multi-valued),Free text
+Strongest_Validation,"Strongest criterion used to count a patch as fixed (derived, ordinal)",0 Similarity/exact match | 0 LLM judge | 1 Human judgment | 1 Compilation | 2 SAST re-scan | 3 Test execution | 4 Formal verification | 5 Exploit/PoC or dynamic
+Func_vs_Sec,Functional and security correctness assessed separately,Y | N | NR
+Benchmark_Type,Provenance of evaluation data,Real CVE | Real-world (curated) | Real-world (proprietary) | Synthetic | Mixed | NR
+Leakage_Control,"Explicit control for training-data contamination (post-cutoff, chronological split, transformation, de-duplication)",Y | N
+Cost_Reported,Monetary or time cost per repair reported,Y | N
+Deployment,Highest level of real-world use demonstrated,Lab | Real-world submission (patches/PRs/CVEs upstream) | Industrial infrastructure | Industrial deployment
+CI_CD,Integration with CI/CD or development workflow tooling,Y | Partial | N
+Human,Humans involved in generation or validation,Y | N
+Artefact,Code/data publicly released,Y | Partial | N | NR
+ARCHETYPE RULES,Applied in this order; first match wins,
+T5 Config/IaC remediator,"Target is a configuration, IaC or policy artefact",
+E Evaluation/benchmark,Benchmark or empirical study comparing several paradigms (no single proposed technique),
+T4 Agentic orchestrator,LLM autonomously plans and invokes tools (agent / multi-agent),
+T3 Iterative repair loop,"Fixed pipeline where an EXTERNAL oracle (compiler, SAST, tests, sanitizer, verifier) feeds back into regeneration",
+T1 Fine-tuned specialist,Weight adaptation is the primary technique and there is no external-oracle loop,
+T2 Prompted generalist,"Prompting (zero/few-shot, CoT, RAG, self-refinement) without an external-oracle loop",
+"CODED COLUMNS (derived from the fields above; every count in the manuscript is a COUNTIF over one of these or an original column, see sheet Summary)",,
+Target_Group,Target collapsed into six groups,Source code | Patch porting/backporting | Configuration | Smart contract | Firmware | Regular expressions
+Language_Groups,"Languages evaluated, C and C++ counted as one group; configuration formats (YAML, HCL, IAM JSON, Ansible) as one group",C/C++; Java; Python; JS/Node; Go; PHP; Solidity; Rust; C#; Configuration; Regex; Other (unnamed further languages)
+N_Language_Groups,Number of language groups; studies stating several unnamed languages count as 2,Integer
+Benchmarks_Named,Widely used benchmarks named in Benchmark,CVEfixes; Big-Vul; Vul4J; SEC-bench; ExtractFix; PatchEval; MegaVul; PrimeVul
+Scale_N,Number of vulnerabilities evaluated; parts joined by + are summed; blank if not reported,Integer or blank
+Scope_Group,"Scope collapsed: any function-, snippet-, hunk/function- or marked-region scope = Function",Function | Line | File | Multi-file | Repository | System
+Provenance_Group,"Benchmark_Type with all real-world curated, industrial and competition sets merged",Real CVE | Real-world (curated) | Synthetic | Mixed | NR
+Adaptation_Codes,"Adaptation coded by keyword: Iterative (iterative feedback, self-refinement, self-correction); Agentic; FineTuning (fine-tuning, instruction tuning; a fine-tuned judge does not count); ZeroOneShot; CoT (incl. tree-of-thought); RAG (incl. retrieval memory); FewShot; RL (reinforcement or preference learning); Memory",Multi-valued
+Model_Families,"Model families named in Models (GPT-4 includes GPT-4o, GPT-4.1, o1, o3, o4-mini)",Multi-valued
+Tool_Categories,"External programs used in generation or validation, coded manually from Tools. A plain execution harness that only runs a benchmark's own tests is not counted; neither is an LLM used as critic","ProgramAnalysis (slicing, AST, data-flow/taint, typestate, dependency, call graph, language-server navigation) | StaticAnalyser (SAST tool, linter or vulnerability scanner) | Sanitizer | Compiler/Build | Fuzzer | Debugger (incl. Valgrind) | FormalVerifier | AgentShell (agent runs commands in a sandbox) | OtherTool | None"

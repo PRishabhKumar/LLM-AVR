@@ -1,0 +1,29 @@
+Stage,Count,Note
+"Records exported from 6 databases (IEEE Xplore, Scopus, SpringerLink, ScienceDirect, Web of Science, arXiv)",3880,Source: database search export
+Duplicates removed,1164,Source: author screening record
+"Records screened (titles and abstracts, four reviewers)",2716,"Source: author screening record (2,716)"
+Excluded at title/abstract,2591,"Source: author screening record (2,591)"
+Candidates assessed and quality-scored (three authors),125,Source: quality-assessment workbook (125 papers)
+  High / Moderate / Low,55 / 64 / 6,Source: quality-assessment workbook
+  Mean quality score,5.26,Source: quality-assessment workbook
+  Inter-rater agreement (kappa),Not computed,Scores are the mean of three raters; conflicts resolved by discussion with a fourth adjudicator
+Full-text candidates,65,
+  included after all-criteria check,49,
+  excluded,16,"EC3 5, EC4 4, IC1 3, EC1 2, IC4 1, IC5 1"
+Abstract-level candidates,60,
+"  full text later retrieved, moved to core",7,
+  met all criteria at abstract level (initial sensitivity set),18,
+  excluded,35,"IC3 17, EC1 3, EC10 3, EC2 2, EC3 2, EC4 2, EC9 2, IC4 2, EC7 1, IC2 1"
+Backward snowballing candidates,14,
+  core (full text),6,
+  sensitivity (abstract only),1,
+  excluded,7,
+Second full-text retrieval: moved to core,6,"S2, S12, S13, S14, S53, S75"
+Forward snowballing candidates,25,
+  core (full text),10,"S43, S45, S48, S50, S51, S54, S58, S63, S64, S70"
+  excluded,15,
+Removed at final verification,3,"REC_00645, REC_00710 (EC9); REC_00795 (EC11)"
+CORE SET,75,Must equal rows in Extraction_Core75
+Check: rows in Extraction_Core75,75,
+SENSITIVITY SET,13,Must equal rows in Sensitivity_Set13
+Check: rows in Sensitivity_Set13,13,
